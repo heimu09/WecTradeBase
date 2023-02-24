@@ -1,0 +1,22 @@
+
+  ==========================================
+  Studio Pro version: 9.0.3
+  Started at: 21.02.2023, 17:05:22
+  ==========================================
+  
+
+[2023-02-21T11:05:23.973Z] : [success]: Robot saved successfully
+
+[2023-02-21T11:05:23.978Z] : [error]: Uncaught (in promise): Error: ScriptConverter:getStatement: activity.params.subroutine_path is required
+Error: ScriptConverter:getStatement: activity.params.subroutine_path is required
+    at e.getStatement (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:2590496)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:2590986
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:853535
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:875267
+    at vi (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:865308)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:875072
+    at Yt (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:853502)
+    at Fn.reduce (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:908616)
+    at e.getStatement (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:2590731)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:2590986
+

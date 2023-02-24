@@ -1,0 +1,57 @@
+[2023-02-20T09:03:36.894Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+[2023-02-20T09:03:38.669Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-02-20T09:03:38.673Z] : [info]: Total execution time: 4m 36s 228ms
+
+[2023-02-20T09:03:38.673Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 20.02.2023, 15:03:38
+  ==========================================
+  
+
+[2023-02-20T09:08:22.138Z] : [success]: Robot saved successfully
+
+[2023-02-20T09:19:46.692Z] : [error]: Script Stopped.
+
+[2023-02-20T09:19:46.694Z] : [info]: Total execution time: 4m 49s 542ms
+
+[2023-02-20T09:19:46.695Z] : [info]: ---------------------------------------------
+
+[2023-02-20T09:25:35.446Z] : [success]: Robot saved successfully
+
+[2023-02-20T09:27:24.786Z] : [success]: Robot saved successfully
+
+[2023-02-20T09:46:28.734Z] : [success]: Robot saved successfully
+
+[2023-02-20T09:51:13.405Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-02-20T09:51:13.409Z] : [info]: Total execution time: 4m 36s 476ms
+
+[2023-02-20T09:51:13.410Z] : [info]: ---------------------------------------------
+
+[2023-02-20T09:54:16.703Z] : [success]: Robot saved successfully
+
+[2023-02-20T10:07:26.297Z] : [success]: Robot saved successfully
+
+[2023-02-20T10:14:23.664Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-02-20T10:14:23.668Z] : [info]: Total execution time: 6m 47s 55ms
+
+[2023-02-20T10:14:23.669Z] : [info]: ---------------------------------------------
+
+[2023-02-20T10:18:40.588Z] : [success]: Robot saved successfully
+
+[2023-02-20T10:20:30.048Z] : [success]: Robot saved successfully
+
+[2023-02-20T10:27:40.536Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-02-20T10:27:40.546Z] : [info]: Total execution time: 7m 1s 736ms
+
+[2023-02-20T10:27:40.549Z] : [info]: ---------------------------------------------
+
+[2023-02-20T10:29:32.594Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,51 @@
+[2023-01-31T10:40:52.458Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+[2023-01-31T10:40:52.893Z] : [error]: result is not defined
+
+[2023-01-31T10:40:52.897Z] : [info]: Total execution time: 29s 409ms
+
+[2023-01-31T10:40:52.899Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 31.01.2023, 16:40:53
+  ==========================================
+  
+
+[2023-01-31T11:54:20.561Z] : [success]: Robot saved successfully
+
+[2023-01-31T11:55:45.246Z] : [error]: result is not defined
+
+[2023-01-31T11:55:45.250Z] : [info]: Total execution time: 23s 975ms
+
+[2023-01-31T11:55:45.252Z] : [info]: ---------------------------------------------
+
+[2023-01-31T11:56:03.198Z] : [success]: Robot saved successfully
+
+[2023-01-31T11:57:22.604Z] : [success]: Robot saved successfully
+
+[2023-01-31T11:59:58.643Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:00:01.883Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:00:23.915Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:00:24.357Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:00:26.788Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:00:47.961Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:01:46.918Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:03:31.660Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:05:43.853Z] : [error]: result is not defined
+
+[2023-01-31T12:05:43.857Z] : [info]: Total execution time: 1m 15s 853ms
+
+[2023-01-31T12:05:43.859Z] : [info]: ---------------------------------------------
+
+[2023-01-31T12:05:56.143Z] : [success]: Robot saved successfully
+

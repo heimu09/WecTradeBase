@@ -1,0 +1,107 @@
+
+  ==========================================
+  Studio Pro version: 8.2.7
+  Started at: 26.12.2022, 16:24:10
+  ==========================================
+  
+
+[2022-12-26T10:24:12.330Z] : [success]: Robot saved successfully
+
+[2022-12-26T10:24:23.809Z] : [success]: Robot saved successfully
+
+[2022-12-26T10:32:58.675Z] : [success]: Robot saved successfully
+
+[2022-12-26T10:33:15.931Z] : [success]: Robot saved successfully
+
+[2022-12-26T10:33:19.667Z] : [info]: ---------------------------------------------
+
+[2022-12-26T10:33:19.668Z] : [success]: Bot started
+
+[2022-12-26T10:33:19.669Z] : [info]: Robot start
+
+[2022-12-26T10:33:48.750Z] : [error]: work_deadline.getTime is not a function
+
+[2022-12-26T10:33:48.753Z] : [error]: Total execution time: 29s 80ms
+
+[2022-12-26T10:33:48.754Z] : [info]: ---------------------------------------------
+
+[2022-12-26T10:34:40.083Z] : [success]: Robot saved successfully
+
+[2022-12-26T10:35:04.800Z] : [success]: Robot saved successfully
+
+[2022-12-26T10:35:08.453Z] : [success]: Bot started
+
+[2022-12-26T10:35:08.454Z] : [info]: Robot start
+
+[2022-12-26T10:35:33.882Z] : [success]: Bot finished successfully, total execution time: 25s 426ms
+
+[2022-12-26T10:35:33.884Z] : [info]: ---------------------------------------------
+
+[2022-12-26T10:36:31.520Z] : [success]: Robot saved successfully
+
+[2022-12-26T10:37:28.449Z] : [success]: Bot started
+
+[2022-12-26T10:37:28.450Z] : [info]: Robot start
+
+[2022-12-26T10:37:41.881Z] : [success]: Bot finished successfully, total execution time: 13s 430ms
+
+[2022-12-26T10:37:41.883Z] : [info]: ---------------------------------------------
+
+[2022-12-26T10:40:08.648Z] : [success]: Bot started
+
+[2022-12-26T10:40:08.650Z] : [info]: Robot start
+
+[2022-12-26T10:40:25.871Z] : [success]: Bot finished successfully, total execution time: 17s 219ms
+
+[2022-12-26T10:40:25.872Z] : [info]: ---------------------------------------------
+
+[2022-12-26T10:41:03.842Z] : [success]: Robot saved successfully
+
+[2022-12-26T10:41:08.245Z] : [success]: Bot started
+
+[2022-12-26T10:41:08.245Z] : [info]: Robot start
+
+[2022-12-26T10:41:15.887Z] : [error]: Canceled by user
+
+[2022-12-26T10:41:15.889Z] : [error]: Total execution time: 7s 641ms
+
+[2022-12-26T10:41:15.890Z] : [info]: ---------------------------------------------
+
+[2022-12-26T10:42:20.068Z] : [success]: Robot saved successfully
+
+[2022-12-26T10:42:26.416Z] : [success]: Robot saved successfully
+
+[2022-12-26T10:42:37.748Z] : [success]: Bot started
+
+[2022-12-26T10:42:37.749Z] : [info]: Robot start
+
+[2022-12-26T10:43:06.871Z] : [success]: Bot finished successfully, total execution time: 29s 121ms
+
+[2022-12-26T10:43:06.872Z] : [info]: ---------------------------------------------
+
+[2022-12-26T10:43:50.308Z] : [success]: Robot saved successfully
+
+[2022-12-26T10:43:55.538Z] : [success]: Bot started
+
+[2022-12-26T10:43:55.539Z] : [info]: Robot start
+
+[2022-12-26T10:44:02.871Z] : [success]: Bot finished successfully, total execution time: 7s 331ms
+
+[2022-12-26T10:44:02.872Z] : [info]: ---------------------------------------------
+
+[2022-12-26T10:45:02.431Z] : [success]: Bot started
+
+[2022-12-26T10:45:02.433Z] : [info]: Robot start
+
+[2022-12-26T10:45:09.877Z] : [success]: Bot finished successfully, total execution time: 7s 442ms
+
+[2022-12-26T10:45:09.878Z] : [info]: ---------------------------------------------
+
+[2022-12-26T10:55:28.123Z] : [success]: Robot saved successfully
+
+[2022-12-26T10:58:52.809Z] : [success]: Robot saved successfully
+
+[2022-12-26T11:00:20.882Z] : [success]: Robot saved successfully
+
+[2022-12-26T11:01:05.001Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,221 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 31.01.2023, 14:39:48
+  ==========================================
+  
+
+[2023-01-31T08:39:50.008Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:40:20.066Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:40:25.111Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:40:25.392Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:40:30.910Z] : [info]: ---------------------------------------------
+
+[2023-01-31T08:40:30.912Z] : [success]: Bot started
+
+[2023-01-31T08:40:30.914Z] : [info]: Robot start
+
+[2023-01-31T08:40:36.154Z] : [success]: Bot finished successfully, total execution time: 5s 237ms
+
+[2023-01-31T08:40:36.156Z] : [info]: ---------------------------------------------
+
+[2023-01-31T08:40:45.833Z] : [success]: Bot started
+
+[2023-01-31T08:40:45.833Z] : [info]: Robot start
+
+[2023-01-31T08:40:50.982Z] : [success]: Bot finished successfully, total execution time: 5s 147ms
+
+[2023-01-31T08:40:50.983Z] : [info]: ---------------------------------------------
+
+[2023-01-31T08:41:23.758Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:41:24.157Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:41:36.951Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:41:40.213Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:41:40.529Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:41:47.096Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:41:49.961Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:41:56.261Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:42:00.756Z] : [success]: Bot started
+
+[2023-01-31T08:42:00.758Z] : [info]: Robot start
+
+[2023-01-31T08:42:08.028Z] : [success]: Bot finished successfully, total execution time: 7s 268ms
+
+[2023-01-31T08:42:08.031Z] : [info]: ---------------------------------------------
+
+[2023-01-31T08:43:01.363Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:43:04.312Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:43:33.547Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:45:39.818Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:46:06.273Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:46:30.953Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:46:37.124Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:46:53.987Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:47:27.458Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:47:30.805Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:47:35.101Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:48:03.803Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:48:04.800Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:48:05.006Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:48:34.565Z] : [info]: ---------------------------------------------
+
+[2023-01-31T08:48:34.566Z] : [success]: Bot started
+
+[2023-01-31T08:48:34.568Z] : [info]: Robot start
+
+[2023-01-31T08:48:56.898Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-01-31T08:48:56.902Z] : [info]: Total execution time: 22s 329ms
+
+[2023-01-31T08:48:56.903Z] : [info]: ---------------------------------------------
+
+[2023-01-31T08:49:57.505Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:49:57.550Z] : [success]: Bot started
+
+[2023-01-31T08:49:57.551Z] : [info]: Robot start
+
+[2023-01-31T08:50:05.839Z] : [success]: Bot finished successfully, total execution time: 8s 287ms
+
+[2023-01-31T08:50:05.840Z] : [info]: ---------------------------------------------
+
+[2023-01-31T08:50:24.234Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:50:49.751Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:50:58.945Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:51:13.504Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:51:53.175Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:52:20.017Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:52:25.823Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:52:26.619Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:52:37.120Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:52:39.112Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:53:13.606Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:53:30.401Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:53:33.838Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:53:39.491Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:53:41.260Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:53:53.262Z] : [success]: Bot started
+
+[2023-01-31T08:53:53.263Z] : [info]: Robot start
+
+[2023-01-31T08:54:06.529Z] : [success]: Bot finished successfully, total execution time: 13s 264ms
+
+[2023-01-31T08:54:06.531Z] : [info]: ---------------------------------------------
+
+[2023-01-31T08:54:16.493Z] : [error]: Cannot set properties of undefined (setting 'parent')
+
+[2023-01-31T08:54:16.614Z] : [error]: Cannot set properties of undefined (setting 'parent')
+
+[2023-01-31T08:54:42.739Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:54:44.635Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:55:11.808Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:55:17.611Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:55:20.685Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:55:25.260Z] : [success]: Bot started
+
+[2023-01-31T08:55:25.261Z] : [info]: Robot start
+
+[2023-01-31T08:55:37.456Z] : [success]: Bot finished successfully, total execution time: 12s 193ms
+
+[2023-01-31T08:55:37.457Z] : [info]: ---------------------------------------------
+
+[2023-01-31T08:56:08.880Z] : [error]: Cannot set properties of undefined (setting 'parent')
+
+[2023-01-31T08:56:09.036Z] : [error]: Cannot set properties of undefined (setting 'parent')
+
+[2023-01-31T08:56:21.700Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:56:24.514Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:56:34.123Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:57:22.960Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:57:31.107Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:57:37.584Z] : [success]: Bot started
+
+[2023-01-31T08:57:37.585Z] : [info]: Robot start
+
+[2023-01-31T08:57:51.914Z] : [success]: Bot finished successfully, total execution time: 14s 326ms
+
+[2023-01-31T08:57:51.916Z] : [info]: ---------------------------------------------
+
+[2023-01-31T08:58:22.379Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:58:25.004Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:59:01.764Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:59:01.814Z] : [success]: Bot started
+
+[2023-01-31T08:59:01.815Z] : [info]: Robot start
+
+[2023-01-31T08:59:17.095Z] : [success]: Bot finished successfully, total execution time: 15s 279ms
+
+[2023-01-31T08:59:17.097Z] : [info]: ---------------------------------------------
+
+[2023-01-31T08:59:40.866Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:59:42.848Z] : [success]: Robot saved successfully
+
+[2023-01-31T09:00:27.800Z] : [success]: Robot saved successfully
+
+[2023-01-31T09:00:30.213Z] : [success]: Robot saved successfully
+
+[2023-01-31T09:00:34.971Z] : [success]: Robot saved successfully
+
+[2023-01-31T09:00:42.016Z] : [success]: Bot started
+
+[2023-01-31T09:00:42.018Z] : [info]: Robot start
+
+[2023-01-31T09:01:03.420Z] : [success]: Bot finished successfully, total execution time: 21s 401ms
+
+[2023-01-31T09:01:03.422Z] : [info]: ---------------------------------------------
+

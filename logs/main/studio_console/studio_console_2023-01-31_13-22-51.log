@@ -1,0 +1,71 @@
+
+  ==========================================
+  Studio Pro version: 9.0.3
+  Started at: 31.01.2023, 13:23:02
+  ==========================================
+  
+
+[2023-01-31T07:23:03.912Z] : [success]: Robot saved successfully
+
+[2023-01-31T07:23:29.999Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-01-31T07:23:31.863Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-01-31T07:23:33.075Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-01-31T07:23:33.509Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-01-31T07:23:38.273Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-01-31T07:23:44.104Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-01-31T07:23:51.105Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-01-31T07:24:03.608Z] : [success]: Robot saved successfully
+
+[2023-01-31T07:24:19.522Z] : [success]: Robot saved successfully
+
+[2023-01-31T07:24:24.998Z] : [success]: Robot saved successfully
+
+[2023-01-31T07:24:48.725Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-01-31T07:24:50.118Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-01-31T07:24:51.093Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-01-31T07:25:28.879Z] : [success]: Robot saved successfully
+
+[2023-01-31T07:25:34.191Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:02:13.017Z] : [info]: ---------------------------------------------
+
+[2023-01-31T08:02:13.017Z] : [success]: Bot started
+
+[2023-01-31T08:02:13.018Z] : [info]: Robot start
+
+[2023-01-31T08:04:38.889Z] : [success]: Bot started
+
+[2023-01-31T08:04:38.889Z] : [info]: Robot start
+
+[2023-01-31T08:04:50.423Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-31T08:04:51.111Z] : [success]: Bot finished successfully, total execution time: 12s 221ms
+
+[2023-01-31T08:04:51.112Z] : [info]: ---------------------------------------------
+
+[2023-01-31T08:06:04.712Z] : [success]: Bot started
+
+[2023-01-31T08:06:04.713Z] : [info]: Robot start
+
+[2023-01-31T08:06:21.235Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-31T08:06:22.129Z] : [success]: Bot finished successfully, total execution time: 17s 415ms
+
+[2023-01-31T08:06:22.129Z] : [info]: ---------------------------------------------
+
+[2023-01-31T08:16:43.470Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:16:44.039Z] : [success]: Robot saved successfully
+
+[2023-01-31T08:16:55.180Z] : [success]: The workflow has been exported successfully
+

@@ -1,0 +1,35 @@
+[2023-01-31T10:23:44.546Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 31.01.2023, 16:23:45
+  ==========================================
+  
+
+[2023-01-31T10:24:42.753Z] : [success]: Robot saved successfully
+
+[2023-01-31T10:24:55.709Z] : [info]: Internet connection // error
+
+[2023-01-31T10:24:55.851Z] : [info]: ---------------------------------------------
+
+[2023-01-31T10:24:55.852Z] : [success]: Bot started
+
+[2023-01-31T10:24:55.854Z] : [info]: Robot start
+
+[2023-01-31T10:25:17.651Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-01-31T10:25:17.653Z] : [info]: Total execution time: 21s 798ms
+
+[2023-01-31T10:25:17.654Z] : [info]: ---------------------------------------------
+
+[2023-01-31T10:25:37.199Z] : [success]: Robot saved successfully
+
+[2023-01-31T10:27:16.917Z] : [error]: result is not defined
+
+[2023-01-31T10:27:16.923Z] : [info]: Total execution time: 1m 14s 875ms
+
+[2023-01-31T10:27:16.924Z] : [info]: ---------------------------------------------
+
+[2023-01-31T10:28:10.693Z] : [success]: Robot saved successfully
+

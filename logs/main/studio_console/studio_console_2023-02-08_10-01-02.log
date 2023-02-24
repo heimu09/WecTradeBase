@@ -1,0 +1,13 @@
+
+  ==========================================
+  Studio Pro version: 9.0.3
+  Started at: 08.02.2023, 10:03:25
+  ==========================================
+  
+
+[2023-02-08T07:03:39.876Z] : [success]: Robot saved successfully
+
+[2023-02-08T08:08:14.625Z] : [success]: Robot saved successfully
+
+[2023-02-08T08:08:15.489Z] : [error]: Cannot read properties of null (reading 'type')
+

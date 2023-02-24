@@ -1,0 +1,81 @@
+[2023-02-01T08:19:45.152Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 01.02.2023, 14:19:46
+  ==========================================
+  
+
+[2023-02-01T08:20:20.574Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:22:27.429Z] : [error]:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (60) SSL certificate problem: unable to get local issuer certificate
+More details here: http://curl.haxx.se/docs/sslcerts.html
+
+curl performs SSL certificate verification by default, using a "bundle"
+ of Certificate Authority (CA) public keys (CA certs). If the default
+ bundle file isn't adequate, you can specify an alternate file
+ using the --cacert option.
+If this HTTPS server uses a certificate signed by a CA represented in
+ the bundle, the certificate verification probably failed due to a
+ problem with the certificate (it might be expired, or the name might
+ not match the domain name in the URL).
+If you'd like to turn off curl's verification of the certificate, use
+ the -k (or --insecure) option.
+
+
+[2023-02-01T08:22:27.439Z] : [info]: Total execution time: 1m 59s 285ms
+
+[2023-02-01T08:22:27.441Z] : [info]: ---------------------------------------------
+
+[2023-02-01T08:27:27.624Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:28:58.215Z] : [error]: curl: option -k/: is unknown
+curl: try 'curl --help' or 'curl --manual' for more information
+
+
+[2023-02-01T08:28:58.219Z] : [info]: Total execution time: 1m 14s 866ms
+
+[2023-02-01T08:28:58.220Z] : [info]: ---------------------------------------------
+
+[2023-02-01T08:30:45.791Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:36:47.486Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:39:35.077Z] : [error]: Script Stopped.
+
+[2023-02-01T08:39:35.080Z] : [info]: Total execution time: 2m 37s 534ms
+
+[2023-02-01T08:39:35.081Z] : [info]: ---------------------------------------------
+
+[2023-02-01T08:44:58.912Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:49:27.587Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:50:10.914Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:51:16.080Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:51:16.177Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:51:51.903Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:51:56.669Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:52:03.797Z] : [success]: Robot saved successfully
+
+[2023-02-01T09:04:01.808Z] : [success]: Robot saved successfully
+
+[2023-02-01T09:04:35.299Z] : [success]: Robot saved successfully
+
+[2023-02-01T09:04:37.249Z] : [success]: Robot saved successfully
+
+[2023-02-01T09:37:02.422Z] : [success]: Robot saved successfully
+
+[2023-02-01T09:49:33.955Z] : [success]: Robot saved successfully
+
+[2023-02-01T09:54:45.960Z] : [success]: Robot saved successfully
+

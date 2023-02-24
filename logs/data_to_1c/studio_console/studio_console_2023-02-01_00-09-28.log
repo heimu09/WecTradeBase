@@ -1,0 +1,231 @@
+[2023-01-31T18:12:09.333Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 01.02.2023, 00:12:10
+  ==========================================
+  
+
+[2023-01-31T18:16:45.050Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:17:23.907Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:17:50.945Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:19:33.603Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:19:33.767Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:25:34.043Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:25:57.350Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:26:17.000Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:26:20.526Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:27:42.736Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:27:47.924Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:28:19.921Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:31:02.163Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:47:11.519Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:47:12.992Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:47:13.325Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:47:22.579Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:48:30.398Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:48:46.240Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:49:25.613Z] : [success]: Robot saved successfully
+
+[2023-01-31T18:52:40.646Z] : [success]: Robot saved successfully
+
+[2023-01-31T19:29:43.087Z] : [success]: Robot saved successfully
+
+[2023-01-31T19:29:59.960Z] : [success]: Robot saved successfully
+
+[2023-01-31T19:30:17.181Z] : [success]: Robot saved successfully
+
+[2023-01-31T19:30:40.311Z] : [success]: Robot saved successfully
+
+[2023-01-31T19:31:49.036Z] : [success]: Robot saved successfully
+
+[2023-01-31T19:32:03.636Z] : [success]: Robot saved successfully
+
+[2023-01-31T19:32:14.599Z] : [success]: Robot saved successfully
+
+[2023-01-31T19:47:58.783Z] : [success]: Robot saved successfully
+
+[2023-01-31T20:57:45.947Z] : [success]: Robot saved successfully
+
+[2023-01-31T20:58:50.063Z] : [success]: Robot saved successfully
+
+[2023-01-31T20:58:52.405Z] : [success]: Robot saved successfully
+
+[2023-01-31T20:58:58.301Z] : [success]: Robot saved successfully
+
+[2023-01-31T20:59:17.308Z] : [success]: Robot saved successfully
+
+[2023-01-31T20:59:19.691Z] : [success]: Robot saved successfully
+
+[2023-01-31T20:59:25.253Z] : [success]: Robot saved successfully
+
+[2023-01-31T20:59:55.158Z] : [success]: Robot saved successfully
+
+[2023-01-31T20:59:56.367Z] : [success]: Robot saved successfully
+
+[2023-01-31T20:59:56.606Z] : [success]: Robot saved successfully
+
+[2023-01-31T20:59:56.873Z] : [success]: Robot saved successfully
+
+[2023-01-31T21:00:10.115Z] : [success]: Robot saved successfully
+
+[2023-01-31T21:00:11.397Z] : [success]: Robot saved successfully
+
+[2023-01-31T21:00:27.324Z] : [success]: Robot saved successfully
+
+[2023-01-31T21:00:30.821Z] : [success]: Robot saved successfully
+
+[2023-01-31T21:00:37.700Z] : [success]: Robot saved successfully
+
+[2023-01-31T21:02:20.516Z] : [error]: "curl" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+
+[2023-01-31T21:02:20.518Z] : [info]: Total execution time: 1m 29s 114ms
+
+[2023-01-31T21:02:20.519Z] : [info]: ---------------------------------------------
+
+[2023-01-31T21:04:41.923Z] : [info]: Internet connection // error
+
+[2023-01-31T21:04:45.443Z] : [success]: Connection to our licenses server is restored
+
+[2023-01-31T21:14:06.399Z] : [success]: Robot saved successfully
+
+[2023-01-31T21:16:32.549Z] : [error]: "\"C:Program FilescURLincurl.exe\"" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+
+[2023-01-31T21:16:32.551Z] : [info]: Total execution time: 1m 28s 810ms
+
+[2023-01-31T21:16:32.552Z] : [info]: ---------------------------------------------
+
+[2023-01-31T21:17:04.029Z] : [success]: Robot saved successfully
+
+[2023-01-31T21:19:15.426Z] : [error]: "\"C:\Program Files\cURL\bin\curl.exe\"" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+
+[2023-01-31T21:19:15.428Z] : [info]: Total execution time: 1m 32s 578ms
+
+[2023-01-31T21:19:15.429Z] : [info]: ---------------------------------------------
+
+[2023-01-31T21:20:01.092Z] : [success]: Robot saved successfully
+
+[2023-01-31T21:20:07.829Z] : [success]: Robot saved successfully
+
+[2023-01-31T21:21:58.737Z] : [error]:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+curl: (60) SSL certificate problem: unable to get local issuer certificate
+More details here: http://curl.haxx.se/docs/sslcerts.html
+
+curl performs SSL certificate verification by default, using a "bundle"
+ of Certificate Authority (CA) public keys (CA certs). If the default
+ bundle file isn't adequate, you can specify an alternate file
+ using the --cacert option.
+If this HTTPS server uses a certificate signed by a CA represented in
+ the bundle, the certificate verification probably failed due to a
+ problem with the certificate (it might be expired, or the name might
+ not match the domain name in the URL).
+If you'd like to turn off curl's verification of the certificate, use
+ the -k (or --insecure) option.
+
+
+[2023-01-31T21:21:58.741Z] : [info]: Total execution time: 1m 28s 864ms
+
+[2023-01-31T21:21:58.742Z] : [info]: ---------------------------------------------
+
+[2023-01-31T21:23:30.162Z] : [success]: Robot saved successfully
+
+[2023-01-31T21:25:07.320Z] : [error]:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (60) SSL certificate problem: unable to get local issuer certificate
+More details here: http://curl.haxx.se/docs/sslcerts.html
+
+curl performs SSL certificate verification by default, using a "bundle"
+ of Certificate Authority (CA) public keys (CA certs). If the default
+ bundle file isn't adequate, you can specify an alternate file
+ using the --cacert option.
+If this HTTPS server uses a certificate signed by a CA represented in
+ the bundle, the certificate verification probably failed due to a
+ problem with the certificate (it might be expired, or the name might
+ not match the domain name in the URL).
+If you'd like to turn off curl's verification of the certificate, use
+ the -k (or --insecure) option.
+
+
+[2023-01-31T21:25:07.322Z] : [info]: Total execution time: 1m 29s 386ms
+
+[2023-01-31T21:25:07.323Z] : [info]: ---------------------------------------------
+
+[2023-01-31T21:26:05.391Z] : [success]: Robot saved successfully
+
+[2023-01-31T21:29:05.397Z] : [error]: "C:\Program" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+
+[2023-01-31T21:29:05.399Z] : [info]: Total execution time: 1m 29s 689ms
+
+[2023-01-31T21:29:05.400Z] : [info]: ---------------------------------------------
+
+[2023-01-31T21:29:38.294Z] : [success]: Robot saved successfully
+
+[2023-01-31T22:08:22.368Z] : [success]: Robot saved successfully
+
+[2023-01-31T22:11:29.541Z] : [success]: Robot saved successfully
+
+[2023-01-31T22:13:08.842Z] : [error]: "C:\Users\User1\Documents\Electroneek\WecTrade\curl-7.46.0-win64\bin" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+
+[2023-01-31T22:13:08.845Z] : [info]: Total execution time: 1m 28s 941ms
+
+[2023-01-31T22:13:08.847Z] : [info]: ---------------------------------------------
+
+[2023-01-31T22:14:00.857Z] : [success]: Robot saved successfully
+
+[2023-01-31T22:16:02.580Z] : [error]:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (60) SSL certificate problem: unable to get local issuer certificate
+More details here: http://curl.haxx.se/docs/sslcerts.html
+
+curl performs SSL certificate verification by default, using a "bundle"
+ of Certificate Authority (CA) public keys (CA certs). If the default
+ bundle file isn't adequate, you can specify an alternate file
+ using the --cacert option.
+If this HTTPS server uses a certificate signed by a CA represented in
+ the bundle, the certificate verification probably failed due to a
+ problem with the certificate (it might be expired, or the name might
+ not match the domain name in the URL).
+If you'd like to turn off curl's verification of the certificate, use
+ the -k (or --insecure) option.
+
+
+[2023-01-31T22:16:02.583Z] : [info]: Total execution time: 1m 26s 892ms
+
+[2023-01-31T22:16:02.584Z] : [info]: ---------------------------------------------
+
+[2023-02-01T04:31:13.953Z] : [error]: Cannot read properties of null (reading 'offsetHeight')
+

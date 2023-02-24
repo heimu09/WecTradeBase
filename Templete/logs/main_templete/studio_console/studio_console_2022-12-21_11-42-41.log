@@ -1,0 +1,116 @@
+
+  ==========================================
+  Studio Pro version: 8.2.7
+  Started at: 21.12.2022, 11:44:50
+  ==========================================
+  
+
+[2022-12-21T05:54:42.365Z] : [success]: Robot saved successfully
+
+[2022-12-21T05:54:48.230Z] : [info]: ---------------------------------------------
+
+[2022-12-21T05:54:48.231Z] : [success]: Bot started
+
+[2022-12-21T05:54:48.232Z] : [info]: Robot start
+
+[2022-12-21T05:54:50.184Z] : [error]: puth_database is not defined
+
+[2022-12-21T05:54:50.187Z] : [error]: Total execution time: 1s 952ms
+
+[2022-12-21T05:54:50.188Z] : [info]: ---------------------------------------------
+
+[2022-12-21T05:55:02.742Z] : [success]: Robot saved successfully
+
+[2022-12-21T05:55:05.947Z] : [success]: Bot started
+
+[2022-12-21T05:55:05.948Z] : [info]: Robot start
+
+[2022-12-21T05:55:08.087Z] : [error]: cmd is not defined
+
+[2022-12-21T05:55:08.089Z] : [error]: Total execution time: 2s 139ms
+
+[2022-12-21T05:55:08.090Z] : [info]: ---------------------------------------------
+
+[2022-12-21T05:55:24.654Z] : [success]: Robot saved successfully
+
+[2022-12-21T05:55:27.910Z] : [success]: Bot started
+
+[2022-12-21T05:55:27.912Z] : [info]: Robot start
+
+[2022-12-21T05:55:30.080Z] : [error]: all_data is not defined
+
+[2022-12-21T05:55:30.082Z] : [error]: Total execution time: 2s 169ms
+
+[2022-12-21T05:55:30.083Z] : [info]: ---------------------------------------------
+
+[2022-12-21T05:55:47.524Z] : [success]: Robot saved successfully
+
+[2022-12-21T05:55:50.843Z] : [success]: Bot started
+
+[2022-12-21T05:55:50.844Z] : [info]: Robot start
+
+[2022-12-21T05:55:56.092Z] : [error]: Selectors: "Отказано в доступе по пути \"C:\\Users\\Admin\\Documents\\Electroneek\"."
+
+
+[2022-12-21T05:55:56.095Z] : [error]: Total execution time: 5s 248ms
+
+[2022-12-21T05:55:56.096Z] : [info]: ---------------------------------------------
+
+[2022-12-21T05:56:33.848Z] : [success]: Bot started
+
+[2022-12-21T05:56:33.849Z] : [info]: Robot start
+
+[2022-12-21T05:56:38.098Z] : [error]: Selectors: "Отказано в доступе по пути \"C:\\Users\\Admin\\Documents\\Electroneek\"."
+
+
+[2022-12-21T05:56:38.101Z] : [error]: Total execution time: 4s 249ms
+
+[2022-12-21T05:56:38.102Z] : [info]: ---------------------------------------------
+
+[2022-12-21T05:58:58.864Z] : [success]: Robot saved successfully
+
+[2022-12-21T05:59:04.315Z] : [success]: Bot started
+
+[2022-12-21T05:59:04.315Z] : [info]: Robot start
+
+[2022-12-21T05:59:08.082Z] : [error]: Selectors: "Отказано в доступе по пути \"C:\\Users\\Admin\\Documents\\Electroneek\\Robot\"."
+
+
+[2022-12-21T05:59:08.084Z] : [error]: Total execution time: 3s 766ms
+
+[2022-12-21T05:59:08.086Z] : [info]: ---------------------------------------------
+
+[2022-12-21T06:29:35.288Z] : [success]: Robot saved successfully
+
+[2022-12-21T06:29:38.627Z] : [success]: Bot started
+
+[2022-12-21T06:29:38.628Z] : [info]: Robot start
+
+[2022-12-21T06:29:44.085Z] : [error]: Selectors: "Отказано в доступе по пути \"C:\\Users\\Admin\\Documents\\Electroneek\\Robot\"."
+
+
+[2022-12-21T06:29:44.087Z] : [error]: Total execution time: 5s 456ms
+
+[2022-12-21T06:29:44.088Z] : [info]: ---------------------------------------------
+
+[2022-12-21T06:30:50.993Z] : [success]: Robot saved successfully
+
+[2022-12-21T06:35:03.522Z] : [success]: Robot saved successfully
+
+[2022-12-21T06:35:07.130Z] : [success]: Robot saved successfully
+
+[2022-12-21T06:35:12.297Z] : [success]: Bot started
+
+[2022-12-21T06:35:12.298Z] : [info]: Robot start
+
+[2022-12-21T06:35:16.083Z] : [error]: Selectors: "Отказано в доступе по пути \"C:\\Users\\Admin\\Documents\\Electroneek\\Robot\"."
+
+
+[2022-12-21T06:35:16.085Z] : [error]: Total execution time: 3s 784ms
+
+[2022-12-21T06:35:16.086Z] : [info]: ---------------------------------------------
+
+[2022-12-21T06:35:24.281Z] : [success]: Robot saved successfully
+
+[2022-12-21T06:35:26.177Z] : [error]: Cannot read properties of null (reading 'type')
+

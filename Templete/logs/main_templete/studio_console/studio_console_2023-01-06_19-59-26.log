@@ -1,0 +1,411 @@
+
+  ==========================================
+  Studio Pro version: 9.0.4
+  Started at: 06.01.2023, 20:01:57
+  ==========================================
+  
+
+[2023-01-06T14:02:53.482Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:17:00.558Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:17:21.844Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:17:55.957Z] : [error]: Activity parameters required: Subprogram
+
+[2023-01-06T14:17:55.964Z] : [info]: ---------------------------------------------
+
+[2023-01-06T14:18:01.069Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:18:05.194Z] : [info]: ---------------------------------------------
+
+[2023-01-06T14:18:05.201Z] : [success]: Bot started
+
+[2023-01-06T14:18:05.209Z] : [info]: Robot start
+
+[2023-01-06T14:18:45.874Z] : [error]: EISDIR: illegal operation on a directory, write
+
+[2023-01-06T14:18:45.881Z] : [info]: Total execution time: 40s 665ms
+
+[2023-01-06T14:18:45.888Z] : [info]: ---------------------------------------------
+
+[2023-01-06T14:21:15.821Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:24:57.686Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:25:30.484Z] : [success]: Bot started
+
+[2023-01-06T14:25:30.490Z] : [info]: Robot start
+
+[2023-01-06T14:26:05.986Z] : [error]: EISDIR: illegal operation on a directory, open 'C:\Users\Admin\Documents\Electroneek\Robot 1\Logs'
+
+[2023-01-06T14:26:05.994Z] : [info]: Total execution time: 35s 496ms
+
+[2023-01-06T14:26:06.004Z] : [info]: ---------------------------------------------
+
+[2023-01-06T14:26:50.082Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:28:20.045Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:28:31.999Z] : [success]: Bot started
+
+[2023-01-06T14:28:32.005Z] : [info]: Robot start
+
+[2023-01-06T14:28:36.277Z] : [error]: Script Stopped.
+
+[2023-01-06T14:28:36.283Z] : [info]: Total execution time: 4s 272ms
+
+[2023-01-06T14:28:36.290Z] : [info]: ---------------------------------------------
+
+[2023-01-06T14:28:46.652Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:29:12.565Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:29:16.414Z] : [success]: Bot started
+
+[2023-01-06T14:29:16.419Z] : [info]: Robot start
+
+[2023-01-06T14:29:47.944Z] : [error]: The file name contains characters prohibited by the Windows naming convention. Please, make sure you don’t use any reserved characters in the file name.
+
+[2023-01-06T14:29:47.954Z] : [info]: Total execution time: 31s 524ms
+
+[2023-01-06T14:29:47.964Z] : [info]: ---------------------------------------------
+
+[2023-01-06T14:30:47.979Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:30:51.838Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:30:55.863Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:31:20.300Z] : [success]: Bot started
+
+[2023-01-06T14:31:20.306Z] : [info]: Robot start
+
+[2023-01-06T14:31:58.890Z] : [error]: The file name contains characters prohibited by the Windows naming convention. Please, make sure you don’t use any reserved characters in the file name.
+
+[2023-01-06T14:31:58.897Z] : [info]: Total execution time: 38s 584ms
+
+[2023-01-06T14:31:58.906Z] : [info]: ---------------------------------------------
+
+[2023-01-06T14:32:39.035Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:32:40.589Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:33:13.864Z] : [success]: Bot started
+
+[2023-01-06T14:33:13.870Z] : [info]: Robot start
+
+[2023-01-06T14:33:43.379Z] : [error]: The file name contains characters prohibited by the Windows naming convention. Please, make sure you don’t use any reserved characters in the file name.
+
+[2023-01-06T14:33:43.388Z] : [info]: Total execution time: 29s 508ms
+
+[2023-01-06T14:33:43.400Z] : [info]: ---------------------------------------------
+
+[2023-01-06T14:34:25.956Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:34:43.311Z] : [success]: Bot started
+
+[2023-01-06T14:34:43.317Z] : [info]: Robot start
+
+[2023-01-06T14:35:10.785Z] : [error]: The file name contains characters prohibited by the Windows naming convention. Please, make sure you don’t use any reserved characters in the file name.
+
+[2023-01-06T14:35:10.793Z] : [info]: Total execution time: 27s 467ms
+
+[2023-01-06T14:35:10.801Z] : [info]: ---------------------------------------------
+
+[2023-01-06T14:35:28.119Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:46:53.875Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:46:58.501Z] : [success]: Bot started
+
+[2023-01-06T14:46:58.507Z] : [info]: Robot start
+
+[2023-01-06T14:47:39.093Z] : [error]: Unexpected token '{'
+
+[2023-01-06T14:47:39.102Z] : [info]: Total execution time: 40s 585ms
+
+[2023-01-06T14:47:39.111Z] : [info]: ---------------------------------------------
+
+[2023-01-06T14:52:09.539Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:52:14.176Z] : [success]: Bot started
+
+[2023-01-06T14:52:14.183Z] : [info]: Robot start
+
+[2023-01-06T14:52:45.742Z] : [error]: Canceled by user
+
+[2023-01-06T14:52:45.748Z] : [info]: Total execution time: 31s 558ms
+
+[2023-01-06T14:52:45.759Z] : [info]: ---------------------------------------------
+
+[2023-01-06T14:52:52.408Z] : [success]: Robot saved successfully
+
+[2023-01-06T14:52:56.422Z] : [success]: Bot started
+
+[2023-01-06T14:52:56.429Z] : [info]: Robot start
+
+[2023-01-06T14:53:41.019Z] : [error]: all_data is not defined
+
+[2023-01-06T14:53:41.026Z] : [info]: Total execution time: 44s 590ms
+
+[2023-01-06T14:53:41.034Z] : [info]: ---------------------------------------------
+
+[2023-01-06T14:59:45.587Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:08:55.607Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:09:18.410Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:09:48.499Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:10:11.990Z] : [success]: Bot started
+
+[2023-01-06T15:10:11.996Z] : [info]: Robot start
+
+[2023-01-06T15:10:32.490Z] : [success]: Bot finished successfully, total execution time: 20s 493ms
+
+[2023-01-06T15:10:32.495Z] : [info]: ---------------------------------------------
+
+[2023-01-06T15:11:37.056Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:11:41.605Z] : [success]: Bot started
+
+[2023-01-06T15:11:41.610Z] : [info]: Robot start
+
+[2023-01-06T15:12:41.414Z] : [error]: text_to_table is not defined
+
+[2023-01-06T15:12:41.422Z] : [info]: Total execution time: 59s 804ms
+
+[2023-01-06T15:12:41.432Z] : [info]: ---------------------------------------------
+
+[2023-01-06T15:12:55.928Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:13:20.278Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:13:24.628Z] : [success]: Bot started
+
+[2023-01-06T15:13:24.632Z] : [info]: Robot start
+
+[2023-01-06T15:13:53.171Z] : [error]: Selectors: Input data value is null
+
+[2023-01-06T15:13:53.177Z] : [info]: Total execution time: 28s 539ms
+
+[2023-01-06T15:13:53.184Z] : [info]: ---------------------------------------------
+
+[2023-01-06T15:14:31.113Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:14:49.724Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:14:54.419Z] : [success]: Bot started
+
+[2023-01-06T15:14:54.425Z] : [info]: Robot start
+
+[2023-01-06T15:15:44.113Z] : [success]: Bot finished successfully, total execution time: 49s 687ms
+
+[2023-01-06T15:15:44.118Z] : [info]: ---------------------------------------------
+
+[2023-01-06T15:29:16.513Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:29:21.913Z] : [success]: Bot started
+
+[2023-01-06T15:29:21.921Z] : [info]: Robot start
+
+[2023-01-06T15:29:32.281Z] : [success]: Bot finished successfully, total execution time: 10s 358ms
+
+[2023-01-06T15:29:32.285Z] : [info]: ---------------------------------------------
+
+[2023-01-06T15:30:15.412Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:30:19.801Z] : [success]: Bot started
+
+[2023-01-06T15:30:19.805Z] : [info]: Robot start
+
+[2023-01-06T15:31:28.835Z] : [success]: Bot finished successfully, total execution time: 1m 9s 29ms
+
+[2023-01-06T15:31:28.842Z] : [info]: ---------------------------------------------
+
+[2023-01-06T15:35:32.265Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:35:48.635Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:36:25.362Z] : [success]: Bot started
+
+[2023-01-06T15:36:25.367Z] : [info]: Robot start
+
+[2023-01-06T15:36:27.736Z] : [success]: Bot finished successfully, total execution time: 2s 368ms
+
+[2023-01-06T15:36:27.740Z] : [info]: ---------------------------------------------
+
+[2023-01-06T15:37:28.326Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:37:32.744Z] : [success]: Bot started
+
+[2023-01-06T15:37:32.751Z] : [info]: Robot start
+
+[2023-01-06T15:37:35.047Z] : [success]: Bot finished successfully, total execution time: 2s 296ms
+
+[2023-01-06T15:37:35.053Z] : [info]: ---------------------------------------------
+
+[2023-01-06T15:41:51.415Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:41:53.182Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:42:07.131Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:42:11.946Z] : [success]: Bot started
+
+[2023-01-06T15:42:11.951Z] : [info]: Robot start
+
+[2023-01-06T15:43:36.956Z] : [error]: Canceled by user
+
+[2023-01-06T15:43:36.963Z] : [info]: Total execution time: 1m 25s 4ms
+
+[2023-01-06T15:43:36.971Z] : [info]: ---------------------------------------------
+
+[2023-01-06T15:43:58.248Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:44:02.750Z] : [success]: Bot started
+
+[2023-01-06T15:44:02.759Z] : [info]: Robot start
+
+[2023-01-06T15:44:42.216Z] : [error]: time_left is not defined
+
+[2023-01-06T15:44:42.222Z] : [info]: Total execution time: 39s 456ms
+
+[2023-01-06T15:44:42.231Z] : [info]: ---------------------------------------------
+
+[2023-01-06T15:46:01.108Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:46:05.637Z] : [success]: Bot started
+
+[2023-01-06T15:46:05.641Z] : [info]: Robot start
+
+[2023-01-06T15:46:16.000Z] : [success]: Bot finished successfully, total execution time: 10s 358ms
+
+[2023-01-06T15:46:16.005Z] : [info]: ---------------------------------------------
+
+[2023-01-06T15:47:40.080Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:48:13.635Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:48:14.539Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:48:20.238Z] : [success]: Bot started
+
+[2023-01-06T15:48:20.243Z] : [info]: Robot start
+
+[2023-01-06T15:48:26.600Z] : [error]: time_left is not defined
+
+[2023-01-06T15:48:26.606Z] : [info]: Total execution time: 6s 356ms
+
+[2023-01-06T15:48:26.614Z] : [info]: ---------------------------------------------
+
+[2023-01-06T15:50:54.554Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:51:36.697Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:52:05.596Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:52:22.443Z] : [success]: Robot saved successfully
+
+[2023-01-06T15:52:27.173Z] : [success]: Bot started
+
+[2023-01-06T15:52:27.179Z] : [info]: Robot start
+
+[2023-01-06T15:52:33.633Z] : [success]: Bot finished successfully, total execution time: 6s 453ms
+
+[2023-01-06T15:52:33.638Z] : [info]: ---------------------------------------------
+
+[2023-01-06T16:11:56.536Z] : [success]: Robot saved successfully
+
+[2023-01-06T16:13:49.420Z] : [success]: Robot saved successfully
+
+[2023-01-06T16:14:38.612Z] : [success]: Robot saved successfully
+
+[2023-01-06T16:14:52.680Z] : [success]: Robot saved successfully
+
+[2023-01-06T16:17:14.307Z] : [success]: Bot started
+
+[2023-01-06T16:17:14.314Z] : [info]: Robot start
+
+[2023-01-06T16:17:20.674Z] : [error]: Unexpected identifier
+
+[2023-01-06T16:17:20.680Z] : [info]: Total execution time: 6s 360ms
+
+[2023-01-06T16:17:20.687Z] : [info]: ---------------------------------------------
+
+[2023-01-06T16:18:35.502Z] : [success]: Robot saved successfully
+
+[2023-01-06T16:18:40.655Z] : [success]: Bot started
+
+[2023-01-06T16:18:40.662Z] : [info]: Robot start
+
+[2023-01-06T16:18:46.978Z] : [error]: Bad Request
+
+[2023-01-06T16:18:46.984Z] : [info]: Total execution time: 6s 315ms
+
+[2023-01-06T16:18:46.992Z] : [info]: ---------------------------------------------
+
+[2023-01-06T16:23:41.462Z] : [success]: Robot saved successfully
+
+[2023-01-06T16:23:47.413Z] : [success]: Bot started
+
+[2023-01-06T16:23:47.420Z] : [info]: Robot start
+
+[2023-01-06T16:23:53.818Z] : [success]: Bot finished successfully, total execution time: 6s 396ms
+
+[2023-01-06T16:23:53.822Z] : [info]: ---------------------------------------------
+
+[2023-01-06T16:29:03.866Z] : [success]: Robot saved successfully
+
+[2023-01-06T16:29:09.031Z] : [success]: Bot started
+
+[2023-01-06T16:29:09.037Z] : [info]: Robot start
+
+[2023-01-06T16:29:12.308Z] : [error]: Cannot convert undefined or null to object
+
+[2023-01-06T16:29:12.315Z] : [info]: Total execution time: 3s 271ms
+
+[2023-01-06T16:29:12.322Z] : [info]: ---------------------------------------------
+
+[2023-01-06T16:29:38.195Z] : [success]: Robot saved successfully
+
+[2023-01-06T16:29:43.819Z] : [success]: Bot started
+
+[2023-01-06T16:29:43.824Z] : [info]: Robot start
+
+[2023-01-06T16:30:44.581Z] : [error]: Unexpected identifier
+
+[2023-01-06T16:30:44.588Z] : [info]: Total execution time: 1m 757ms
+
+[2023-01-06T16:30:44.596Z] : [info]: ---------------------------------------------
+
+[2023-01-06T16:31:03.516Z] : [success]: Robot saved successfully
+
+[2023-01-06T16:31:03.599Z] : [success]: Bot started
+
+[2023-01-06T16:31:03.603Z] : [info]: Robot start
+
+[2023-01-06T16:31:10.947Z] : [success]: Bot finished successfully, total execution time: 7s 343ms
+
+[2023-01-06T16:31:10.952Z] : [info]: ---------------------------------------------
+
+[2023-01-06T16:32:05.491Z] : [success]: Bot started
+
+[2023-01-06T16:32:05.499Z] : [info]: Robot start
+
+[2023-01-06T16:32:23.966Z] : [success]: Bot finished successfully, total execution time: 18s 466ms
+
+[2023-01-06T16:32:23.973Z] : [info]: ---------------------------------------------
+
+[2023-01-06T16:34:01.159Z] : [success]: Robot saved successfully
+
+[2023-01-06T16:34:33.208Z] : [success]: Robot saved successfully
+
+[2023-01-06T16:34:35.554Z] : [success]: Robot saved successfully
+
+[2023-01-06T16:34:35.792Z] : [success]: Robot saved successfully
+
+[2023-01-06T16:34:36.043Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,52 @@
+[2023-02-17T05:39:22.227Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.0.3
+  Started at: 17.02.2023, 11:39:23
+  ==========================================
+  
+
+[2023-02-17T05:44:09.313Z] : [success]: Robot saved successfully
+
+[2023-02-17T05:45:21.588Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.0.3
+  Started at: 17.02.2023, 11:45:22
+  ==========================================
+  
+
+[2023-02-17T05:47:38.787Z] : [success]: Robot saved successfully
+
+[2023-02-17T05:51:35.264Z] : [success]: Robot saved successfully
+
+[2023-02-17T05:53:24.658Z] : [success]: Robot saved successfully
+
+[2023-02-17T05:53:29.142Z] : [success]: The workflow has been exported successfully
+
+[2023-02-17T05:59:01.235Z] : [success]: Robot saved successfully
+
+[2023-02-17T05:59:33.378Z] : [success]: Robot saved successfully
+
+[2023-02-17T06:00:26.349Z] : [success]: Robot saved successfully
+
+[2023-02-17T06:05:25.059Z] : [success]: Robot saved successfully
+
+[2023-02-17T06:05:25.311Z] : [success]: Robot saved successfully
+
+[2023-02-17T06:05:35.326Z] : [success]: Robot saved successfully
+
+[2023-02-17T06:07:48.570Z] : [success]: Robot saved successfully
+
+[2023-02-17T06:07:53.882Z] : [success]: Robot saved successfully
+
+[2023-02-17T06:20:23.167Z] : [success]: Robot saved successfully
+
+[2023-02-17T06:21:04.209Z] : [success]: Robot saved successfully
+
+[2023-02-17T06:21:19.311Z] : [success]: Robot saved successfully
+
+[2023-02-17T06:21:21.417Z] : [success]: Robot saved successfully
+

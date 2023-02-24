@@ -1,0 +1,182 @@
+[2023-01-31T12:09:24.030Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+[2023-01-31T12:09:24.557Z] : [error]: result is not defined
+
+[2023-01-31T12:09:24.562Z] : [info]: Total execution time: 54s 642ms
+
+[2023-01-31T12:09:24.564Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 31.01.2023, 18:09:24
+  ==========================================
+  
+
+[2023-01-31T12:09:34.177Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:10:07.423Z] : [error]: result is not defined
+
+[2023-01-31T12:10:07.426Z] : [info]: Total execution time: 20s 430ms
+
+[2023-01-31T12:10:07.427Z] : [info]: ---------------------------------------------
+
+[2023-01-31T12:10:16.396Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:11:13.734Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:12:09.417Z] : [error]: An error occured while performing the activity as multiple elements were found for the selector you provided. Please, make sure the selector of the indicated element is unique before interacting with it
+
+[2023-01-31T12:12:09.422Z] : [info]: Total execution time: 44s 643ms
+
+[2023-01-31T12:12:09.424Z] : [info]: ---------------------------------------------
+
+[2023-01-31T12:12:15.434Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:16:15.750Z] : [error]: result is not defined
+
+[2023-01-31T12:16:15.752Z] : [info]: Total execution time: 3m 54s 17ms
+
+[2023-01-31T12:16:15.753Z] : [info]: ---------------------------------------------
+
+[2023-01-31T12:20:35.012Z] : [error]: result is not defined
+
+[2023-01-31T12:20:35.015Z] : [info]: Total execution time: 22s 428ms
+
+[2023-01-31T12:20:35.017Z] : [info]: ---------------------------------------------
+
+[2023-01-31T12:26:09.520Z] : [error]: result is not defined
+
+[2023-01-31T12:26:09.523Z] : [info]: Total execution time: 24s 382ms
+
+[2023-01-31T12:26:09.524Z] : [info]: ---------------------------------------------
+
+[2023-01-31T12:32:09.442Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:32:34.141Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:32:41.253Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:32:49.084Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:34:32.353Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:34:49.622Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:36:19.414Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:36:22.855Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:36:41.252Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:36:45.375Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:37:26.665Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:38:15.968Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:38:17.057Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:38:23.887Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:42:14.503Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:43:21.881Z] : [error]: Selectors: Could not maximize window
+
+
+[2023-01-31T12:43:21.885Z] : [info]: Total execution time: 58s 206ms
+
+[2023-01-31T12:43:21.886Z] : [info]: ---------------------------------------------
+
+[2023-01-31T12:43:40.863Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:43:44.880Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:44:45.239Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:45:54.703Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:45:57.408Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:46:55.825Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:50:33.340Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:50:43.724Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:50:55.899Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:51:05.395Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:51:30.344Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:51:34.186Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:51:39.596Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:51:56.032Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:52:48.621Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:52:49.389Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:52:51.902Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:52:58.609Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:53:10.469Z] : [success]: Bot started
+
+[2023-01-31T12:53:10.471Z] : [info]: Robot start
+
+[2023-01-31T12:53:15.178Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-31T12:53:16.449Z] : [error]: Script Stopped.
+
+[2023-01-31T12:53:16.453Z] : [info]: Total execution time: 5s 977ms
+
+[2023-01-31T12:53:16.455Z] : [info]: ---------------------------------------------
+
+[2023-01-31T12:54:30.266Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:55:18.226Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:55:20.917Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:57:18.275Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:57:30.254Z] : [success]: Robot saved successfully
+
+[2023-01-31T12:59:59.604Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:02:17.821Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:02:19.809Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:03:02.999Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:03:04.636Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:03:06.082Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:04:59.007Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:08:06.075Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:13:46.415Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:14:11.169Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:14:27.306Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:15:37.276Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:17:35.260Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:18:57.261Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:19:00.520Z] : [success]: Robot saved successfully
+
+[2023-01-31T13:19:13.644Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-31T13:19:13.647Z] : [error]: Cannot read properties of null (reading 'type')
+

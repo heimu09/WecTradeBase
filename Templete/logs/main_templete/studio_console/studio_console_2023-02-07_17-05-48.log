@@ -1,0 +1,69 @@
+
+  ==========================================
+  Studio Pro version: 9.0.3
+  Started at: 07.02.2023, 17:06:20
+  ==========================================
+  
+
+[2023-02-07T11:06:20.951Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-07T11:06:20.988Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-07T11:06:21.007Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-07T11:06:22.077Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-07T11:06:22.931Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-07T11:06:25.598Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-07T11:06:27.028Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-07T11:06:27.747Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-07T11:06:28.540Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-07T11:06:29.941Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-07T11:06:31.237Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-07T11:06:32.396Z] : [error]: Uncaught (in promise): Error: ScriptConverter:getStatement: activity.params.subroutine_path is required
+Error: ScriptConverter:getStatement: activity.params.subroutine_path is required
+    at e.getStatement (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:2590496)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:2589237
+    at xt (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:852462)
+    at Function.Ca [as map] (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:887757)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:2589204
+    at It (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:852644)
+    at Fn.reduce (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:908616)
+    at e.getScript (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:2588954)
+    at e.getScript (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:2942193)
+    at e.getScripts (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.aa39c8a7bc220fa71bf0.js:1:2996477)
+
+[2023-02-07T11:06:35.193Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-07T11:06:35.672Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-07T11:06:38.303Z] : [success]: Robot saved successfully
+
+[2023-02-07T11:06:58.118Z] : [success]: Robot saved successfully
+
+[2023-02-07T11:07:00.421Z] : [success]: Robot saved successfully
+
+[2023-02-07T11:07:05.539Z] : [success]: Robot saved successfully
+
+[2023-02-07T11:07:16.196Z] : [success]: Robot saved successfully
+
+[2023-02-07T11:08:27.275Z] : [error]: Activity parameters required: Send email
+
+[2023-02-07T11:08:27.279Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.0.3
+  Started at: 07.02.2023, 17:08:27
+  ==========================================
+  
+
+[2023-02-07T11:08:34.748Z] : [success]: Robot saved successfully
+

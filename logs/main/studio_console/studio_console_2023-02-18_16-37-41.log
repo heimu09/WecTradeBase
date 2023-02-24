@@ -1,0 +1,27 @@
+
+  ==========================================
+  Studio Pro version: 9.0.3
+  Started at: 18.02.2023, 16:37:43
+  ==========================================
+  
+
+[2023-02-18T10:38:25.244Z] : [info]: ---------------------------------------------
+
+[2023-02-18T10:38:25.245Z] : [success]: Bot started
+
+[2023-02-18T10:38:25.246Z] : [info]: Robot start
+
+[2023-02-18T10:38:54.152Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-18T10:38:55.027Z] : [success]: Bot finished successfully, total execution time: 29s 778ms
+
+[2023-02-18T10:38:55.028Z] : [info]: ---------------------------------------------
+
+[2023-02-18T10:45:34.247Z] : [success]: Robot saved successfully
+
+[2023-02-18T10:47:57.937Z] : [success]: Robot saved successfully
+
+[2023-02-18T10:49:51.562Z] : [success]: The workflow has been exported successfully
+
+[2023-02-18T11:05:47.084Z] : [success]: The workflow has been exported successfully
+

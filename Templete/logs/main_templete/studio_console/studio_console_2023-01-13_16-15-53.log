@@ -1,0 +1,165 @@
+
+  ==========================================
+  Studio Pro version: 9.0.4
+  Started at: 13.01.2023, 16:18:16
+  ==========================================
+  
+
+[2023-01-13T10:20:40.248Z] : [success]: Robot saved successfully
+
+[2023-01-13T10:21:49.774Z] : [success]: Robot saved successfully
+
+[2023-01-13T10:22:07.264Z] : [success]: Robot saved successfully
+
+[2023-01-13T10:35:08.666Z] : [success]: Robot saved successfully
+
+[2023-01-13T10:36:43.297Z] : [success]: Robot saved successfully
+
+[2023-01-13T10:40:09.124Z] : [success]: Robot saved successfully
+
+[2023-01-13T10:45:10.806Z] : [success]: Robot saved successfully
+
+[2023-01-13T10:56:04.747Z] : [success]: Robot saved successfully
+
+[2023-01-13T10:56:09.760Z] : [info]: ---------------------------------------------
+
+[2023-01-13T10:56:09.765Z] : [success]: Bot started
+
+[2023-01-13T10:56:09.774Z] : [info]: Robot start
+
+[2023-01-13T10:56:17.644Z] : [error]: Canceled by user
+
+[2023-01-13T10:56:17.651Z] : [info]: Total execution time: 7s 868ms
+
+[2023-01-13T10:56:17.659Z] : [info]: ---------------------------------------------
+
+[2023-01-13T10:56:56.965Z] : [success]: Robot saved successfully
+
+[2023-01-13T10:57:00.561Z] : [success]: Bot started
+
+[2023-01-13T10:57:00.566Z] : [info]: Robot start
+
+[2023-01-13T10:57:12.928Z] : [error]: Script Stopped.
+
+[2023-01-13T10:57:12.934Z] : [info]: Total execution time: 12s 362ms
+
+[2023-01-13T10:57:12.945Z] : [info]: ---------------------------------------------
+
+[2023-01-13T10:57:32.887Z] : [success]: Robot saved successfully
+
+[2023-01-13T10:57:32.962Z] : [success]: Bot started
+
+[2023-01-13T10:57:32.967Z] : [info]: Robot start
+
+[2023-01-13T10:57:42.269Z] : [error]: Canceled by user
+
+[2023-01-13T10:57:42.275Z] : [info]: Total execution time: 9s 301ms
+
+[2023-01-13T10:57:42.285Z] : [info]: ---------------------------------------------
+
+[2023-01-13T10:58:59.684Z] : [success]: Robot saved successfully
+
+[2023-01-13T10:59:03.856Z] : [success]: Bot started
+
+[2023-01-13T10:59:03.863Z] : [info]: Robot start
+
+[2023-01-13T10:59:30.288Z] : [error]: path_database is not defined
+
+[2023-01-13T10:59:30.293Z] : [info]: Total execution time: 26s 425ms
+
+[2023-01-13T10:59:30.303Z] : [info]: ---------------------------------------------
+
+[2023-01-13T11:00:34.850Z] : [success]: Robot saved successfully
+
+[2023-01-13T11:04:51.720Z] : [success]: Robot saved successfully
+
+[2023-01-13T11:05:06.042Z] : [success]: Robot saved successfully
+
+[2023-01-13T11:05:10.290Z] : [success]: Bot started
+
+[2023-01-13T11:05:10.295Z] : [info]: Robot start
+
+[2023-01-13T11:05:11.568Z] : [error]: puth_user is not defined
+
+[2023-01-13T11:05:11.575Z] : [info]: Total execution time: 1s 272ms
+
+[2023-01-13T11:05:11.584Z] : [info]: ---------------------------------------------
+
+[2023-01-13T11:05:22.151Z] : [success]: Robot saved successfully
+
+[2023-01-13T11:05:26.742Z] : [success]: Bot started
+
+[2023-01-13T11:05:26.748Z] : [info]: Robot start
+
+[2023-01-13T11:05:59.289Z] : [error]: puth_logs is not defined
+
+[2023-01-13T11:05:59.297Z] : [info]: Total execution time: 32s 541ms
+
+[2023-01-13T11:05:59.304Z] : [info]: ---------------------------------------------
+
+[2023-01-13T11:08:17.282Z] : [success]: Robot saved successfully
+
+[2023-01-13T11:10:27.037Z] : [success]: Robot saved successfully
+
+[2023-01-13T11:10:36.280Z] : [success]: Bot started
+
+[2023-01-13T11:10:36.285Z] : [info]: Robot start
+
+[2023-01-13T11:11:30.889Z] : [error]: response is not defined
+
+[2023-01-13T11:11:30.896Z] : [info]: Total execution time: 54s 603ms
+
+[2023-01-13T11:11:30.907Z] : [info]: ---------------------------------------------
+
+[2023-01-13T11:12:02.045Z] : [success]: Robot saved successfully
+
+[2023-01-13T11:14:05.914Z] : [success]: Robot saved successfully
+
+[2023-01-13T11:24:11.225Z] : [success]: Robot saved successfully
+
+[2023-01-13T11:26:29.034Z] : [success]: Robot saved successfully
+
+[2023-01-13T11:26:46.032Z] : [success]: Robot saved successfully
+
+[2023-01-13T11:26:59.919Z] : [success]: Robot saved successfully
+
+[2023-01-13T11:27:24.706Z] : [success]: Robot saved successfully
+
+[2023-01-13T12:00:31.174Z] : [success]: Robot saved successfully
+
+[2023-01-13T12:00:35.441Z] : [error]: Cannot set properties of undefined (setting 'parent')
+
+[2023-01-13T12:00:35.461Z] : [error]: Cannot set properties of undefined (setting 'parent')
+
+[2023-01-13T12:00:52.711Z] : [success]: Robot saved successfully
+
+[2023-01-13T12:05:45.912Z] : [success]: Robot saved successfully
+
+[2023-01-13T12:06:00.074Z] : [success]: Robot saved successfully
+
+[2023-01-13T12:06:12.113Z] : [success]: Bot started
+
+[2023-01-13T12:06:12.117Z] : [info]: Robot start
+
+[2023-01-13T12:06:27.348Z] : [error]: Cannot read properties of undefined (reading 'map')
+
+[2023-01-13T12:06:27.353Z] : [info]: Total execution time: 15s 230ms
+
+[2023-01-13T12:06:27.360Z] : [info]: ---------------------------------------------
+
+[2023-01-13T12:08:35.763Z] : [success]: Robot saved successfully
+
+[2023-01-13T12:08:50.177Z] : [success]: Robot saved successfully
+
+[2023-01-13T12:08:54.100Z] : [success]: Bot started
+
+[2023-01-13T12:08:54.103Z] : [info]: Robot start
+
+[2023-01-13T12:09:50.660Z] : [error]: Cannot read properties of undefined (reading 'CODE')
+
+[2023-01-13T12:09:50.665Z] : [info]: Total execution time: 56s 556ms
+
+[2023-01-13T12:09:50.673Z] : [info]: ---------------------------------------------
+
+[2023-01-13T12:30:05.467Z] : [success]: Robot saved successfully
+

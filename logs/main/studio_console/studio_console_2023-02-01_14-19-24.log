@@ -1,0 +1,105 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 01.02.2023, 14:19:35
+  ==========================================
+  
+
+[2023-02-01T08:20:28.059Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:20:28.141Z] : [info]: ---------------------------------------------
+
+[2023-02-01T08:20:28.142Z] : [success]: Bot started
+
+[2023-02-01T08:20:28.143Z] : [info]: Robot start
+
+[2023-02-01T08:22:26.498Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-01T08:27:43.289Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:27:43.347Z] : [success]: Bot started
+
+[2023-02-01T08:27:43.347Z] : [info]: Robot start
+
+[2023-02-01T08:28:58.098Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-01T08:31:05.483Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:31:05.558Z] : [success]: Bot started
+
+[2023-02-01T08:31:05.559Z] : [info]: Robot start
+
+[2023-02-01T08:32:27.650Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-01T08:32:28.447Z] : [success]: Bot finished successfully, total execution time: 1m 22s 884ms
+
+[2023-02-01T08:32:28.450Z] : [info]: ---------------------------------------------
+
+[2023-02-01T08:33:28.235Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:36:57.459Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:36:57.541Z] : [success]: Bot started
+
+[2023-02-01T08:36:57.543Z] : [info]: Robot start
+
+[2023-02-01T08:39:35.011Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-01T08:46:24.068Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:46:24.103Z] : [success]: Bot started
+
+[2023-02-01T08:46:24.104Z] : [info]: Robot start
+
+[2023-02-01T08:47:50.297Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-01T08:47:51.192Z] : [success]: Bot finished successfully, total execution time: 1m 27s 85ms
+
+[2023-02-01T08:47:51.194Z] : [info]: ---------------------------------------------
+
+[2023-02-01T08:52:49.595Z] : [success]: Robot saved successfully
+
+[2023-02-01T08:52:49.682Z] : [info]: ---------------------------------------------
+
+[2023-02-01T08:52:49.683Z] : [success]: Bot started
+
+[2023-02-01T08:52:49.684Z] : [info]: Robot start
+
+[2023-02-01T08:56:03.397Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-01T08:56:03.484Z] : [success]: Bot finished successfully, total execution time: 3m 13s 799ms
+
+[2023-02-01T08:56:03.485Z] : [info]: ---------------------------------------------
+
+[2023-02-01T08:56:11.784Z] : [success]: Bot started
+
+[2023-02-01T08:56:11.785Z] : [info]: Robot start
+
+[2023-02-01T08:56:21.208Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-01T08:57:06.595Z] : [success]: Bot started
+
+[2023-02-01T08:57:06.595Z] : [info]: Robot start
+
+[2023-02-01T09:00:30.579Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-01T09:00:31.478Z] : [success]: Bot finished successfully, total execution time: 3m 24s 880ms
+
+[2023-02-01T09:00:31.480Z] : [info]: ---------------------------------------------
+
+[2023-02-01T09:15:41.128Z] : [success]: Robot saved successfully
+
+[2023-02-01T09:16:03.570Z] : [success]: The workflow has been exported successfully
+
+[2023-02-01T09:51:15.044Z] : [success]: Robot saved successfully
+
+[2023-02-01T09:51:15.085Z] : [success]: Bot started
+
+[2023-02-01T09:51:15.086Z] : [info]: Robot start
+
+[2023-02-01T09:53:02.074Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-01T09:53:02.405Z] : [success]: Bot finished successfully, total execution time: 1m 47s 316ms
+
+[2023-02-01T09:53:02.406Z] : [info]: ---------------------------------------------
+

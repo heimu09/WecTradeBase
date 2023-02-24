@@ -1,0 +1,187 @@
+
+  ==========================================
+  Studio Pro version: 8.2.7
+  Started at: 23.12.2022, 14:42:21
+  ==========================================
+  
+
+[2022-12-23T08:43:10.713Z] : [success]: Robot saved successfully
+
+[2022-12-23T08:43:15.985Z] : [info]: ---------------------------------------------
+
+[2022-12-23T08:43:15.986Z] : [success]: Bot started
+
+[2022-12-23T08:43:15.986Z] : [info]: Robot start
+
+[2022-12-23T08:43:24.320Z] : [error]: Not Found
+
+[2022-12-23T08:43:24.322Z] : [error]: Total execution time: 8s 333ms
+
+[2022-12-23T08:43:24.322Z] : [info]: ---------------------------------------------
+
+[2022-12-23T09:26:43.117Z] : [success]: Robot saved successfully
+
+[2022-12-23T09:26:47.883Z] : [success]: Bot started
+
+[2022-12-23T09:26:47.884Z] : [info]: Robot start
+
+[2022-12-23T09:26:56.057Z] : [error]: http_response.map is not a function
+
+[2022-12-23T09:26:56.059Z] : [error]: Total execution time: 8s 172ms
+
+[2022-12-23T09:26:56.059Z] : [info]: ---------------------------------------------
+
+[2022-12-23T09:29:20.864Z] : [success]: Robot saved successfully
+
+[2022-12-23T09:29:34.975Z] : [success]: Robot saved successfully
+
+[2022-12-23T09:29:38.389Z] : [success]: Bot started
+
+[2022-12-23T09:29:38.390Z] : [info]: Robot start
+
+[2022-12-23T09:29:40.001Z] : [error]: request to http://worldtimeapi.org/api/timezone/Asia/Almaty failed, reason: net::ERR_EMPTY_RESPONSE
+
+[2022-12-23T09:29:40.003Z] : [error]: Total execution time: 1s 610ms
+
+[2022-12-23T09:29:40.004Z] : [info]: ---------------------------------------------
+
+[2022-12-23T09:30:08.024Z] : [success]: Robot saved successfully
+
+[2022-12-23T09:30:11.290Z] : [success]: Bot started
+
+[2022-12-23T09:30:11.291Z] : [info]: Robot start
+
+[2022-12-23T09:30:13.003Z] : [error]: request to http://worldtimeapi.org/api/timezone/Asia/Almaty failed, reason: net::ERR_EMPTY_RESPONSE
+
+[2022-12-23T09:30:13.005Z] : [error]: Total execution time: 1s 712ms
+
+[2022-12-23T09:30:13.006Z] : [info]: ---------------------------------------------
+
+[2022-12-23T09:30:25.855Z] : [success]: Robot saved successfully
+
+[2022-12-23T09:30:30.498Z] : [success]: Bot started
+
+[2022-12-23T09:30:30.499Z] : [info]: Robot start
+
+[2022-12-23T09:30:40.019Z] : [error]: Not Found
+
+[2022-12-23T09:30:40.021Z] : [error]: Total execution time: 9s 520ms
+
+[2022-12-23T09:30:40.022Z] : [info]: ---------------------------------------------
+
+[2022-12-23T09:31:58.157Z] : [success]: Robot saved successfully
+
+[2022-12-23T09:32:49.540Z] : [success]: Robot saved successfully
+
+[2022-12-23T09:33:33.971Z] : [success]: Robot saved successfully
+
+[2022-12-23T09:42:11.138Z] : [success]: Robot saved successfully
+
+[2022-12-23T09:55:31.544Z] : [success]: Robot saved successfully
+
+[2022-12-23T09:57:46.172Z] : [success]: Robot saved successfully
+
+[2022-12-23T10:05:07.944Z] : [success]: Robot saved successfully
+
+[2022-12-23T10:06:55.363Z] : [success]: Robot saved successfully
+
+[2022-12-23T10:07:04.231Z] : [success]: Bot started
+
+[2022-12-23T10:07:04.232Z] : [info]: Robot start
+
+[2022-12-23T10:07:06.007Z] : [success]: Bot finished successfully, total execution time: 1s 774ms
+
+[2022-12-23T10:07:06.009Z] : [info]: ---------------------------------------------
+
+[2022-12-23T10:26:28.178Z] : [success]: Robot saved successfully
+
+[2022-12-23T10:28:50.884Z] : [success]: Robot saved successfully
+
+[2022-12-23T10:29:55.582Z] : [success]: Robot saved successfully
+
+[2022-12-23T10:39:21.102Z] : [success]: Robot saved successfully
+
+[2022-12-23T10:39:24.904Z] : [success]: Bot started
+
+[2022-12-23T10:39:24.905Z] : [info]: Robot start
+
+[2022-12-23T10:39:27.020Z] : [success]: Bot finished successfully, total execution time: 2s 114ms
+
+[2022-12-23T10:39:27.021Z] : [info]: ---------------------------------------------
+
+[2022-12-23T10:40:03.711Z] : [success]: Robot saved successfully
+
+[2022-12-23T10:40:03.730Z] : [success]: Bot started
+
+[2022-12-23T10:40:03.731Z] : [info]: Robot start
+
+[2022-12-23T10:40:05.017Z] : [success]: Bot finished successfully, total execution time: 1s 285ms
+
+[2022-12-23T10:40:05.018Z] : [info]: ---------------------------------------------
+
+[2022-12-23T10:40:09.300Z] : [success]: Bot started
+
+[2022-12-23T10:40:09.300Z] : [info]: Robot start
+
+[2022-12-23T10:40:11.024Z] : [success]: Bot finished successfully, total execution time: 1s 723ms
+
+[2022-12-23T10:40:11.025Z] : [info]: ---------------------------------------------
+
+[2022-12-23T10:40:15.274Z] : [success]: Bot started
+
+[2022-12-23T10:40:15.275Z] : [info]: Robot start
+
+[2022-12-23T10:40:17.010Z] : [success]: Bot finished successfully, total execution time: 1s 734ms
+
+[2022-12-23T10:40:17.011Z] : [info]: ---------------------------------------------
+
+[2022-12-23T10:40:22.030Z] : [success]: Bot started
+
+[2022-12-23T10:40:22.031Z] : [info]: Robot start
+
+[2022-12-23T10:40:24.003Z] : [success]: Bot finished successfully, total execution time: 1s 970ms
+
+[2022-12-23T10:40:24.005Z] : [info]: ---------------------------------------------
+
+[2022-12-23T10:40:30.229Z] : [success]: Bot started
+
+[2022-12-23T10:40:30.229Z] : [info]: Robot start
+
+[2022-12-23T10:40:32.019Z] : [success]: Bot finished successfully, total execution time: 1s 789ms
+
+[2022-12-23T10:40:32.021Z] : [info]: ---------------------------------------------
+
+[2022-12-23T10:41:23.887Z] : [success]: Robot saved successfully
+
+[2022-12-23T10:41:23.903Z] : [success]: Bot started
+
+[2022-12-23T10:41:23.904Z] : [info]: Robot start
+
+[2022-12-23T10:41:26.016Z] : [error]: request to http://worldtimeapi.org/api/timezone/Asia/Almaty failed, reason: net::ERR_CONNECTION_RESET
+
+[2022-12-23T10:41:26.018Z] : [error]: Total execution time: 2s 111ms
+
+[2022-12-23T10:41:26.019Z] : [info]: ---------------------------------------------
+
+[2022-12-23T10:41:38.308Z] : [success]: Robot saved successfully
+
+[2022-12-23T10:41:42.675Z] : [success]: Bot started
+
+[2022-12-23T10:41:42.676Z] : [info]: Robot start
+
+[2022-12-23T10:41:45.013Z] : [success]: Bot finished successfully, total execution time: 2s 336ms
+
+[2022-12-23T10:41:45.014Z] : [info]: ---------------------------------------------
+
+[2022-12-23T10:44:56.522Z] : [success]: Robot saved successfully
+
+[2022-12-23T10:45:00.216Z] : [success]: Bot started
+
+[2022-12-23T10:45:00.217Z] : [info]: Robot start
+
+[2022-12-23T10:45:02.015Z] : [success]: Bot finished successfully, total execution time: 1s 797ms
+
+[2022-12-23T10:45:02.016Z] : [info]: ---------------------------------------------
+
+[2022-12-23T10:45:46.821Z] : [success]: Robot saved successfully
+

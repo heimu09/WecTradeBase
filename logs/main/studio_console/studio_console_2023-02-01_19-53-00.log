@@ -1,0 +1,33 @@
+
+  ==========================================
+  Studio Pro version: 9.0.3
+  Started at: 01.02.2023, 19:53:17
+  ==========================================
+  
+
+[2023-02-01T13:53:20.346Z] : [success]: Robot saved successfully
+
+[2023-02-01T13:54:37.945Z] : [info]: ---------------------------------------------
+
+[2023-02-01T13:54:37.946Z] : [success]: Bot started
+
+[2023-02-01T13:54:37.946Z] : [info]: Robot start
+
+[2023-02-01T13:55:37.392Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-01T13:57:24.938Z] : [success]: Robot saved successfully
+
+[2023-02-01T13:57:24.968Z] : [success]: Bot started
+
+[2023-02-01T13:57:24.968Z] : [info]: Robot start
+
+[2023-02-01T13:58:08.335Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-01T13:58:15.424Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-01T13:58:15.426Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-01T13:58:15.428Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-01T13:58:15.429Z] : [error]: Cannot read properties of null (reading 'type')
+

@@ -1,0 +1,233 @@
+
+  ==========================================
+  Studio Pro version: 9.0.3
+  Started at: 22.02.2023, 03:57:16
+  ==========================================
+  
+
+[2023-02-21T22:02:51.929Z] : [success]: Connection to our licenses server is restored
+
+[2023-02-21T22:02:51.977Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:02:51.989Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:02:51.989Z] : [success]: Bot started
+
+[2023-02-21T22:02:51.990Z] : [info]: Robot start
+
+[2023-02-21T22:03:00.273Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:03:00.279Z] : [info]: Total execution time: 8s 282ms
+
+[2023-02-21T22:03:00.279Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:04:09.523Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:04:18.025Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:04:29.798Z] : [success]: Bot started
+
+[2023-02-21T22:04:29.799Z] : [info]: Robot start
+
+[2023-02-21T22:04:37.030Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:04:37.033Z] : [info]: Total execution time: 7s 230ms
+
+[2023-02-21T22:04:37.034Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:07:05.885Z] : [success]: Bot started
+
+[2023-02-21T22:07:05.886Z] : [info]: Robot start
+
+[2023-02-21T22:07:15.099Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:07:15.101Z] : [info]: Total execution time: 9s 213ms
+
+[2023-02-21T22:07:15.102Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:10:19.125Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:10:23.793Z] : [success]: Bot started
+
+[2023-02-21T22:10:23.794Z] : [info]: Robot start
+
+[2023-02-21T22:10:33.053Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:10:33.056Z] : [info]: Total execution time: 9s 258ms
+
+[2023-02-21T22:10:33.057Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:11:03.189Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:11:08.431Z] : [success]: Bot started
+
+[2023-02-21T22:11:08.432Z] : [info]: Robot start
+
+[2023-02-21T22:11:17.668Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:11:17.670Z] : [info]: Total execution time: 9s 235ms
+
+[2023-02-21T22:11:17.671Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:13:16.320Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:13:23.555Z] : [success]: Bot started
+
+[2023-02-21T22:13:23.556Z] : [info]: Robot start
+
+[2023-02-21T22:13:32.777Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:13:32.780Z] : [info]: Total execution time: 9s 221ms
+
+[2023-02-21T22:13:32.780Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:18:52.382Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:18:59.613Z] : [info]: Internet connection // error
+
+[2023-02-21T22:18:59.646Z] : [success]: Bot started
+
+[2023-02-21T22:18:59.647Z] : [info]: Robot start
+
+[2023-02-21T22:19:08.922Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:19:08.923Z] : [info]: Total execution time: 9s 274ms
+
+[2023-02-21T22:19:08.923Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:21:07.269Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:21:13.109Z] : [success]: Connection to our licenses server is restored
+
+[2023-02-21T22:21:13.150Z] : [success]: Bot started
+
+[2023-02-21T22:21:13.151Z] : [info]: Robot start
+
+[2023-02-21T22:21:22.341Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:21:22.343Z] : [info]: Total execution time: 9s 189ms
+
+[2023-02-21T22:21:22.344Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:21:55.636Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:22:03.437Z] : [info]: Internet connection // error
+
+[2023-02-21T22:22:03.473Z] : [success]: Bot started
+
+[2023-02-21T22:22:03.473Z] : [info]: Robot start
+
+[2023-02-21T22:22:11.704Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:22:11.705Z] : [info]: Total execution time: 8s 231ms
+
+[2023-02-21T22:22:11.705Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:22:24.637Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:22:31.691Z] : [success]: Bot started
+
+[2023-02-21T22:22:31.692Z] : [info]: Robot start
+
+[2023-02-21T22:22:39.962Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:22:39.963Z] : [info]: Total execution time: 8s 270ms
+
+[2023-02-21T22:22:39.964Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:24:00.278Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:24:00.623Z] : [success]: Bot started
+
+[2023-02-21T22:24:00.623Z] : [info]: Robot start
+
+[2023-02-21T22:24:08.865Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:24:08.866Z] : [info]: Total execution time: 8s 241ms
+
+[2023-02-21T22:24:08.867Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:24:15.193Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:24:22.740Z] : [success]: Bot started
+
+[2023-02-21T22:24:22.741Z] : [info]: Robot start
+
+[2023-02-21T22:24:31.006Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:24:31.007Z] : [info]: Total execution time: 8s 265ms
+
+[2023-02-21T22:24:31.008Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:25:04.462Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:25:11.885Z] : [success]: Connection to our licenses server is restored
+
+[2023-02-21T22:25:11.918Z] : [success]: Bot started
+
+[2023-02-21T22:25:11.919Z] : [info]: Robot start
+
+[2023-02-21T22:25:20.162Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:25:20.165Z] : [info]: Total execution time: 8s 243ms
+
+[2023-02-21T22:25:20.166Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:25:52.614Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-21T22:25:52.910Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-21T22:25:54.832Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-21T22:25:55.718Z] : [error]: ScriptConverter:getStatement: activity.params.subroutine_path is required
+
+[2023-02-21T22:26:19.436Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:27:05.115Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:27:17.051Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:27:22.032Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:27:22.033Z] : [success]: Bot started
+
+[2023-02-21T22:27:22.033Z] : [info]: Robot start
+
+[2023-02-21T22:27:30.250Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:27:30.253Z] : [info]: Total execution time: 8s 217ms
+
+[2023-02-21T22:27:30.254Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:27:36.618Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:27:42.033Z] : [success]: Bot started
+
+[2023-02-21T22:27:42.034Z] : [info]: Robot start
+
+[2023-02-21T22:27:50.272Z] : [error]: Request 1C: Ссылка на объект не указывает на экземпляр объекта.
+
+[2023-02-21T22:27:50.274Z] : [info]: Total execution time: 8s 237ms
+
+[2023-02-21T22:27:50.274Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:28:26.980Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:28:31.570Z] : [success]: Bot started
+
+[2023-02-21T22:28:31.570Z] : [info]: Robot start
+
+[2023-02-21T22:28:40.766Z] : [success]: Bot finished successfully, total execution time: 9s 195ms
+
+[2023-02-21T22:28:40.766Z] : [info]: ---------------------------------------------
+
+[2023-02-21T22:29:07.917Z] : [success]: Robot saved successfully
+
+[2023-02-21T22:29:13.079Z] : [success]: Bot started
+
+[2023-02-21T22:29:13.080Z] : [info]: Robot start
+
+[2023-02-21T22:29:21.292Z] : [success]: Bot finished successfully, total execution time: 8s 211ms
+
+[2023-02-21T22:29:21.294Z] : [info]: ---------------------------------------------
+

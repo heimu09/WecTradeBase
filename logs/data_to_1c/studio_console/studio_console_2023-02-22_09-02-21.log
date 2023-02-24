@@ -1,0 +1,89 @@
+[2023-02-22T03:23:58.243Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 22.02.2023, 09:24:00
+  ==========================================
+  
+
+[2023-02-22T03:24:01.805Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:24:26.963Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:27:28.464Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:27:55.760Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:28:06.469Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:28:14.587Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:33:31.774Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:33:52.635Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:37:57.864Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-02-22T03:37:57.868Z] : [info]: Total execution time: 3m 27s 666ms
+
+[2023-02-22T03:37:57.870Z] : [info]: ---------------------------------------------
+
+[2023-02-22T03:40:00.608Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:40:21.888Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:40:56.807Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:40:57.986Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:40:58.228Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:40:58.351Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:41:29.315Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:41:53.306Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:44:53.367Z] : [error]: An error occured while performing the activity as multiple elements were found for the selector you provided. Please, make sure the selector of the indicated element is unique before interacting with it
+
+[2023-02-22T03:44:53.371Z] : [info]: Total execution time: 2m 53s 638ms
+
+[2023-02-22T03:44:53.372Z] : [info]: ---------------------------------------------
+
+[2023-02-22T03:45:58.384Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:48:41.381Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:49:03.858Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:49:08.001Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:52:21.017Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-02-22T03:52:21.023Z] : [info]: Total execution time: 2m 48s 487ms
+
+[2023-02-22T03:52:21.025Z] : [info]: ---------------------------------------------
+
+[2023-02-22T03:52:30.882Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:52:56.297Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:53:14.996Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:53:15.674Z] : [success]: Robot saved successfully
+
+[2023-02-22T03:56:12.692Z] : [error]: Selectors: There is no screen on machine. May be RDP session is closed or minimized
+
+[2023-02-22T03:56:12.697Z] : [info]: Total execution time: 2m 30s 576ms
+
+[2023-02-22T03:56:12.699Z] : [info]: ---------------------------------------------
+
+[2023-02-22T03:56:42.642Z] : [success]: Robot saved successfully
+
+[2023-02-22T04:00:42.381Z] : [success]: Robot saved successfully
+
+[2023-02-22T04:00:53.249Z] : [success]: Robot saved successfully
+
+[2023-02-22T04:00:55.250Z] : [success]: Robot saved successfully
+

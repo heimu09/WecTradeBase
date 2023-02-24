@@ -1,0 +1,290 @@
+
+  ==========================================
+  Studio Pro version: 8.2.7
+  Started at: 26.12.2022, 19:22:04
+  ==========================================
+  
+
+[2022-12-26T13:29:33.119Z] : [success]: Robot saved successfully
+
+[2022-12-26T13:29:38.473Z] : [info]: ---------------------------------------------
+
+[2022-12-26T13:29:38.474Z] : [success]: Bot started
+
+[2022-12-26T13:29:38.475Z] : [info]: Robot start
+
+[2022-12-26T13:29:43.211Z] : [error]: Selectors: "Файл 'C:\\Users\\Admin\\Documents\\Electroneek\\Database.xlsx' не найден."
+
+
+[2022-12-26T13:29:43.214Z] : [error]: Total execution time: 4s 736ms
+
+[2022-12-26T13:29:43.215Z] : [info]: ---------------------------------------------
+
+[2022-12-26T13:32:36.846Z] : [success]: Robot saved successfully
+
+[2022-12-26T14:17:20.902Z] : [success]: Robot saved successfully
+
+[2022-12-26T14:17:24.176Z] : [success]: Bot started
+
+[2022-12-26T14:17:24.177Z] : [info]: Robot start
+
+[2022-12-26T14:17:27.042Z] : [success]: Bot finished successfully, total execution time: 2s 864ms
+
+[2022-12-26T14:17:27.043Z] : [info]: ---------------------------------------------
+
+[2022-12-26T14:28:38.405Z] : [success]: Robot saved successfully
+
+[2022-12-26T14:28:42.591Z] : [success]: Bot started
+
+[2022-12-26T14:28:42.592Z] : [info]: Robot start
+
+[2022-12-26T14:28:44.451Z] : [error]: cmd_result is not defined
+
+[2022-12-26T14:28:44.453Z] : [error]: Total execution time: 1s 858ms
+
+[2022-12-26T14:28:44.454Z] : [info]: ---------------------------------------------
+
+[2022-12-26T14:29:06.171Z] : [success]: Robot saved successfully
+
+[2022-12-26T14:29:09.888Z] : [success]: Bot started
+
+[2022-12-26T14:29:09.889Z] : [info]: Robot start
+
+[2022-12-26T14:29:11.458Z] : [error]: puth_user is not defined
+
+[2022-12-26T14:29:11.460Z] : [error]: Total execution time: 1s 569ms
+
+[2022-12-26T14:29:11.461Z] : [info]: ---------------------------------------------
+
+[2022-12-26T14:31:49.787Z] : [success]: Robot saved successfully
+
+[2022-12-26T14:31:52.979Z] : [success]: Bot started
+
+[2022-12-26T14:31:52.980Z] : [info]: Robot start
+
+[2022-12-26T14:31:56.445Z] : [success]: Bot finished successfully, total execution time: 3s 464ms
+
+[2022-12-26T14:31:56.446Z] : [info]: ---------------------------------------------
+
+[2022-12-26T14:34:42.945Z] : [success]: Robot saved successfully
+
+[2022-12-26T14:42:33.419Z] : [success]: Robot saved successfully
+
+[2022-12-26T14:42:45.525Z] : [success]: Robot saved successfully
+
+[2022-12-26T14:42:49.005Z] : [success]: Bot started
+
+[2022-12-26T14:42:49.005Z] : [info]: Robot start
+
+[2022-12-26T14:42:50.474Z] : [error]: Unexpected token ')'
+
+[2022-12-26T14:42:50.475Z] : [error]: Total execution time: 1s 468ms
+
+[2022-12-26T14:42:50.476Z] : [info]: ---------------------------------------------
+
+[2022-12-26T14:45:06.419Z] : [success]: Robot saved successfully
+
+[2022-12-26T14:45:10.158Z] : [success]: Bot started
+
+[2022-12-26T14:45:10.159Z] : [info]: Robot start
+
+[2022-12-26T14:45:11.445Z] : [success]: Bot finished successfully, total execution time: 1s 285ms
+
+[2022-12-26T14:45:11.446Z] : [info]: ---------------------------------------------
+
+[2022-12-26T14:51:57.090Z] : [success]: Robot saved successfully
+
+[2022-12-26T14:53:00.123Z] : [success]: Robot saved successfully
+
+[2022-12-26T14:53:03.771Z] : [success]: Bot started
+
+[2022-12-26T14:53:03.771Z] : [info]: Robot start
+
+[2022-12-26T14:54:12.457Z] : [success]: Bot finished successfully, total execution time: 1m 8s 685ms
+
+[2022-12-26T14:54:12.458Z] : [info]: ---------------------------------------------
+
+[2022-12-26T14:55:44.511Z] : [success]: Robot saved successfully
+
+[2022-12-26T14:55:54.658Z] : [success]: Robot saved successfully
+
+[2022-12-26T14:55:57.992Z] : [success]: Bot started
+
+[2022-12-26T14:55:57.992Z] : [info]: Robot start
+
+[2022-12-26T14:55:59.448Z] : [error]: robot_name is not defined
+
+[2022-12-26T14:55:59.450Z] : [error]: Total execution time: 1s 455ms
+
+[2022-12-26T14:55:59.451Z] : [info]: ---------------------------------------------
+
+[2022-12-26T14:56:37.097Z] : [success]: Robot saved successfully
+
+[2022-12-26T14:56:40.799Z] : [success]: Bot started
+
+[2022-12-26T14:56:40.800Z] : [info]: Robot start
+
+[2022-12-26T14:58:56.458Z] : [error]: Canceled by user
+
+[2022-12-26T14:58:56.461Z] : [error]: Total execution time: 2m 15s 658ms
+
+[2022-12-26T14:58:56.462Z] : [info]: ---------------------------------------------
+
+[2022-12-26T15:00:04.083Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:00:19.921Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:00:27.145Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:04:50.907Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:04:52.813Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:04:53.075Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:04:53.285Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:04:53.481Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:04:53.674Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:04:53.885Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:04:54.081Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:04:54.270Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:04:54.478Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:04:54.690Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:04:54.816Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:05:02.341Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:05:09.305Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:05:13.378Z] : [success]: Bot started
+
+[2022-12-26T15:05:13.379Z] : [info]: Robot start
+
+[2022-12-26T15:06:33.458Z] : [success]: Bot finished successfully, total execution time: 1m 20s 78ms
+
+[2022-12-26T15:06:33.459Z] : [info]: ---------------------------------------------
+
+[2022-12-26T15:07:16.529Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:07:34.120Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:07:39.221Z] : [success]: Bot started
+
+[2022-12-26T15:07:39.222Z] : [info]: Robot start
+
+[2022-12-26T15:07:42.450Z] : [success]: Bot finished successfully, total execution time: 3s 226ms
+
+[2022-12-26T15:07:42.451Z] : [info]: ---------------------------------------------
+
+[2022-12-26T15:12:27.095Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:36:13.415Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:36:17.885Z] : [success]: Bot started
+
+[2022-12-26T15:36:17.886Z] : [info]: Robot start
+
+[2022-12-26T15:36:21.443Z] : [error]: user_input is not defined
+
+[2022-12-26T15:36:21.446Z] : [error]: Total execution time: 3s 556ms
+
+[2022-12-26T15:36:21.447Z] : [info]: ---------------------------------------------
+
+[2022-12-26T15:39:18.376Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:39:22.440Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:45:09.569Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:46:12.180Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:46:16.120Z] : [success]: Bot started
+
+[2022-12-26T15:46:16.121Z] : [info]: Robot start
+
+[2022-12-26T15:47:03.468Z] : [error]: Canceled by user
+
+[2022-12-26T15:47:03.470Z] : [error]: Total execution time: 47s 346ms
+
+[2022-12-26T15:47:03.471Z] : [info]: ---------------------------------------------
+
+[2022-12-26T15:47:10.105Z] : [success]: Bot started
+
+[2022-12-26T15:47:10.106Z] : [info]: Robot start
+
+[2022-12-26T15:47:53.454Z] : [success]: Bot finished successfully, total execution time: 43s 347ms
+
+[2022-12-26T15:47:53.455Z] : [info]: ---------------------------------------------
+
+[2022-12-26T15:47:58.597Z] : [success]: Bot started
+
+[2022-12-26T15:47:58.598Z] : [info]: Robot start
+
+[2022-12-26T15:48:02.463Z] : [error]: user_input is not defined
+
+[2022-12-26T15:48:02.465Z] : [error]: Total execution time: 3s 864ms
+
+[2022-12-26T15:48:02.465Z] : [info]: ---------------------------------------------
+
+[2022-12-26T15:49:48.040Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:49:48.064Z] : [success]: Bot started
+
+[2022-12-26T15:49:48.065Z] : [info]: Robot start
+
+[2022-12-26T15:49:55.473Z] : [error]: user_input is not defined
+
+[2022-12-26T15:49:55.475Z] : [error]: Total execution time: 7s 407ms
+
+[2022-12-26T15:49:55.476Z] : [info]: ---------------------------------------------
+
+[2022-12-26T15:50:39.293Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:51:12.312Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:51:16.269Z] : [success]: Bot started
+
+[2022-12-26T15:51:16.270Z] : [info]: Robot start
+
+[2022-12-26T15:51:22.451Z] : [success]: Bot finished successfully, total execution time: 6s 179ms
+
+[2022-12-26T15:51:22.452Z] : [info]: ---------------------------------------------
+
+[2022-12-26T15:51:44.359Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:51:48.221Z] : [success]: Bot started
+
+[2022-12-26T15:51:48.222Z] : [info]: Robot start
+
+[2022-12-26T15:51:53.456Z] : [success]: Bot finished successfully, total execution time: 5s 232ms
+
+[2022-12-26T15:51:53.458Z] : [info]: ---------------------------------------------
+
+[2022-12-26T15:52:06.435Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:52:10.583Z] : [success]: Bot started
+
+[2022-12-26T15:52:10.584Z] : [info]: Robot start
+
+[2022-12-26T15:52:16.454Z] : [success]: Bot finished successfully, total execution time: 5s 869ms
+
+[2022-12-26T15:52:16.455Z] : [info]: ---------------------------------------------
+
+[2022-12-26T15:54:13.552Z] : [success]: Robot saved successfully
+
+[2022-12-26T15:54:19.317Z] : [success]: Bot started
+
+[2022-12-26T15:54:19.318Z] : [info]: Robot start
+
+[2022-12-26T15:54:25.457Z] : [success]: Bot finished successfully, total execution time: 6s 138ms
+
+[2022-12-26T15:54:25.458Z] : [info]: ---------------------------------------------
+

@@ -1,0 +1,11 @@
+
+  ==========================================
+  Studio Pro version: 8.2.7
+  Started at: 22.12.2022, 17:13:10
+  ==========================================
+  
+
+[2022-12-22T11:15:13.937Z] : [success]: Robot saved successfully
+
+[2022-12-22T11:15:15.090Z] : [error]: Cannot read properties of null (reading 'type')
+

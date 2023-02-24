@@ -1,0 +1,43 @@
+
+  ==========================================
+  Studio Pro version: 8.2.7
+  Started at: 21.12.2022, 12:35:52
+  ==========================================
+  
+
+[2022-12-21T06:36:14.465Z] : [success]: Robot saved successfully
+
+[2022-12-21T06:36:14.477Z] : [info]: ---------------------------------------------
+
+[2022-12-21T06:36:14.478Z] : [success]: Bot started
+
+[2022-12-21T06:36:14.478Z] : [info]: Robot start
+
+[2022-12-21T06:36:18.220Z] : [error]: Selectors: "Отказано в доступе по пути \"C:\\Users\\Admin\\Documents\\Electroneek\\Robot\"."
+
+
+[2022-12-21T06:36:18.233Z] : [error]: Total execution time: 3s 741ms
+
+[2022-12-21T06:36:18.234Z] : [info]: ---------------------------------------------
+
+[2022-12-21T06:49:31.226Z] : [success]: Robot saved successfully
+
+[2022-12-21T06:49:35.589Z] : [success]: Bot started
+
+[2022-12-21T06:49:35.591Z] : [info]: Robot start
+
+[2022-12-21T06:49:39.081Z] : [error]: Selectors: "Отказано в доступе по пути \"C:\\Users\\Admin\\Documents\\Electroneek\\Robot\"."
+
+
+[2022-12-21T06:49:39.082Z] : [error]: Total execution time: 3s 489ms
+
+[2022-12-21T06:49:39.084Z] : [info]: ---------------------------------------------
+
+[2022-12-21T07:13:30.575Z] : [success]: Robot saved successfully
+
+[2022-12-21T07:17:11.938Z] : [success]: Robot saved successfully
+
+[2022-12-21T07:17:18.198Z] : [success]: Robot saved successfully
+
+[2022-12-21T07:17:21.012Z] : [success]: Robot saved successfully
+

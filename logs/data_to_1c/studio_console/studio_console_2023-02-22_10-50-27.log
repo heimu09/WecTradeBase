@@ -1,0 +1,43 @@
+[2023-02-22T05:25:00.257Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.0.3
+  Started at: 22.02.2023, 11:25:02
+  ==========================================
+  
+
+[2023-02-22T05:25:06.005Z] : [success]: Robot saved successfully
+
+[2023-02-22T05:25:15.681Z] : [success]: Robot saved successfully
+
+[2023-02-22T05:25:37.864Z] : [success]: Robot saved successfully
+
+[2023-02-22T05:28:32.741Z] : [success]: Robot saved successfully
+
+[2023-02-22T05:28:58.260Z] : [success]: Robot saved successfully
+
+[2023-02-22T05:29:00.993Z] : [success]: Robot saved successfully
+
+[2023-02-22T05:29:09.864Z] : [success]: Robot saved successfully
+
+[2023-02-22T05:29:13.773Z] : [success]: Robot saved successfully
+
+[2023-02-22T05:29:27.858Z] : [success]: Robot saved successfully
+
+[2023-02-22T05:29:36.344Z] : [success]: Robot saved successfully
+
+[2023-02-22T05:29:41.655Z] : [success]: Robot saved successfully
+
+[2023-02-22T06:29:03.526Z] : [info]: Internet connection // error
+
+[2023-02-22T06:29:09.257Z] : [success]: Connection to our licenses server is restored
+
+[2023-02-22T07:04:53.848Z] : [info]: Internet connection // error
+
+[2023-02-22T07:14:05.630Z] : [success]: Connection to our licenses server is restored
+
+[2023-02-22T09:26:45.064Z] : [info]: Internet connection // error
+
+[2023-02-22T09:26:55.502Z] : [success]: Connection to our licenses server is restored
+
