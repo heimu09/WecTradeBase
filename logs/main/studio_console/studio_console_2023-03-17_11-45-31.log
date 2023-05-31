@@ -1,0 +1,37 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 17.03.2023, 11:45:58
+  ==========================================
+  
+
+[2023-03-17T05:46:32.583Z] : [success]: Connection to our licenses server is restored
+
+[2023-03-17T05:46:32.872Z] : [info]: ---------------------------------------------
+
+[2023-03-17T05:46:32.873Z] : [success]: Bot started
+
+[2023-03-17T05:46:32.874Z] : [info]: Robot start
+
+[2023-03-17T05:47:32.639Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-17T05:51:28.080Z] : [success]: Robot saved successfully
+
+[2023-03-17T05:51:28.534Z] : [success]: Bot started
+
+[2023-03-17T05:51:28.536Z] : [info]: Robot start
+
+[2023-03-17T05:52:32.054Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-17T05:54:06.691Z] : [success]: Bot started
+
+[2023-03-17T05:54:06.692Z] : [info]: Robot start
+
+[2023-03-17T05:55:20.577Z] : [info]: {"id":473895,"name":"Кондиционер-ополаскиватель для белья - Fresh Yellow Flowers 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673515775,"updated_at":1676611112,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846270"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Ополаскиватель для белья концентрированный с тёплым экзотическим ароматом с нотками дыни и ванили. Подходит для всех типов тканей, придает белью мягкость и стойкий аромат. Обладает антистатическим свойством, облегчает глажение. Рекомендован для регулярного применения, не оставляет следов и разводов. Биоразлагаем.\n\nАромат: теплый экзотический (дыня+ваниль)"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1070"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Кондиционеры для белья","enum_id":7499,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"860"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"963"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"1016"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"1005"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473895?page=1&limit=50"}}}
+
+[2023-03-17T05:55:45.838Z] : [info]: {"id":473963,"name":"Гель для мытья посуды - Gin Econom 5 л","created_by":6765538,"updated_by":6765538,"created_at":1673517290,"updated_at":1676610987,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846256"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Концентрированное средство для ручного мытья посуды. Быстро и эффективно удаляет жир даже в холодной воде. Полностью смывается, не оставляет следов на посуде. Способствует быстрому высушиванию посуды и столовых приборов. Экономно расходуется. Безопасен для септиков, биоразлагаем.\n\nАромат: лимон"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"3225"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Для мытья посуды","enum_id":7501,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"2585"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"2902"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"3063"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"3031"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473963?page=1&limit=50"}}}
+
+[2023-03-17T05:55:49.987Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-17T05:57:46.979Z] : [success]: Robot saved successfully
+

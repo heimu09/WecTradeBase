@@ -1,0 +1,259 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 14.03.2023, 19:55:53
+  ==========================================
+  
+
+[2023-03-14T14:03:19.182Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:06:07.413Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:06:21.940Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:06:23.503Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:06:24.978Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:06:42.674Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:08:49.711Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:09:38.863Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:13:08.880Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:15:09.905Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:15:18.045Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:15:19.072Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:15:49.736Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:15:59.254Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:15:59.679Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:15:59.983Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:16:00.238Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:16:00.445Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:16:00.702Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:16:06.177Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:16:35.518Z] : [info]: ---------------------------------------------
+
+[2023-03-14T14:16:35.518Z] : [success]: Bot started
+
+[2023-03-14T14:16:35.518Z] : [info]: Robot start
+
+[2023-03-14T14:18:03.458Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-14T14:19:34.163Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:20:19.811Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:21:58.013Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:22:17.923Z] : [success]: The workflow has been exported successfully
+
+[2023-03-14T14:48:32.378Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:48:38.983Z] : [success]: The workflow has been exported successfully
+
+[2023-03-14T14:53:09.191Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:53:59.722Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:54:09.063Z] : [success]: The workflow has been exported successfully
+
+[2023-03-14T14:57:46.130Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:57:53.180Z] : [success]: The workflow has been exported successfully
+
+[2023-03-14T14:59:48.167Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:59:49.236Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:59:49.475Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:59:49.643Z] : [success]: Robot saved successfully
+
+[2023-03-14T15:06:58.013Z] : [success]: The workflow has been exported successfully
+
+[2023-03-14T15:10:44.269Z] : [success]: The workflow has been exported successfully
+
+[2023-03-14T15:12:52.024Z] : [success]: Robot saved successfully
+
+[2023-03-14T15:12:54.180Z] : [success]: Robot saved successfully
+
+[2023-03-14T15:18:59.437Z] : [success]: Robot saved successfully
+
+[2023-03-14T15:20:19.965Z] : [success]: Robot saved successfully
+
+[2023-03-14T15:20:36.901Z] : [success]: Robot saved successfully
+
+[2023-03-14T15:21:16.924Z] : [success]: Robot saved successfully
+
+[2023-03-14T15:23:41.529Z] : [success]: Robot saved successfully
+
+[2023-03-14T15:23:44.397Z] : [success]: Robot saved successfully
+
+[2023-03-14T15:23:47.530Z] : [success]: Robot saved successfully
+
+[2023-03-14T15:32:52.600Z] : [info]: Internet connection // error
+
+[2023-03-14T15:35:42.046Z] : [success]: Robot saved successfully
+
+[2023-03-14T15:35:48.816Z] : [success]: Connection to our licenses server is restored
+
+[2023-03-14T15:35:51.858Z] : [success]: Robot saved successfully
+
+[2023-03-14T15:36:32.285Z] : [success]: Robot saved successfully
+
+[2023-03-14T15:36:39.664Z] : [success]: The workflow has been exported successfully
+
+[2023-03-14T15:41:45.904Z] : [info]: Internet connection // error
+
+[2023-03-14T17:26:01.460Z] : [success]: Connection to our licenses server is restored
+
+[2023-03-14T17:26:11.208Z] : [success]: Robot saved successfully
+
+[2023-03-14T17:26:11.311Z] : [success]: Bot started
+
+[2023-03-14T17:26:11.312Z] : [info]: Robot start
+
+[2023-03-14T17:27:17.368Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-14T18:05:44.829Z] : [success]: Robot saved successfully
+
+[2023-03-14T18:12:48.968Z] : [success]: Bot started
+
+[2023-03-14T18:12:48.969Z] : [info]: Robot start
+
+[2023-03-14T18:13:55.823Z] : [info]: {"id":473973,"name":"Антижир - чистящее средство от жира и грязи 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673517458,"updated_at":1676610958,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846843"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Гель-концентрат для удаления жира и грязи с эмалированных, хромированных поверхностей, изделий из стекла, нержавеющей стали, фаянса, фарфора, керамики, бытовой кухонной техники и других поверхностей. Содержит активные чистящие вещества и компоненты, расщепляющие любые жировые загрязнения без особых усилий. \n\nИспользовать в перчатках"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1310"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Моющие средства","enum_id":7505,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"1050"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"1179"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"1244"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"1231"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473973?page=1&limit=50"}}}
+
+[2023-03-14T18:14:01.827Z] : [info]: {"id":473955,"name":"Гель-бальзам для мытья посуды - Gin с экстрактом ромашки 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673517070,"updated_at":1676611011,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846676"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Гель-бальзам для мытья посуды, овощей и фруктов, а также детской посуды и игрушек. Обеспечивает мягкое и деликатное воздействие на кожу рук, не сушит кожу и не вызывает чувство стянутости. Позволяет мыть посуду без перчаток. 100% смывается.  Безопасен для септиков, биоразлагаем. \n\nАромат: ромашка с ноткой лимона."}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1125"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Для мытья посуды","enum_id":7501,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"900"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"1012"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"1068"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"1057"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473955?page=1&limit=50"}}}
+
+[2023-03-14T18:14:11.389Z] : [info]: {"id":473921,"name":"Жидкое мыло для рук и тела - Standart Bubble Gum 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673516396,"updated_at":1676611075,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846546"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Для бережного очищения кожи рук и тела. Защищает кожу от высыхания и чувства стянутости. Полностью смывается, безопасно для детей и животных. Можно использовать как гель для душа и пену для ванн.\n\nАромат: фруктовая жвачка бабл гам"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"975"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Жидкие мыла","enum_id":7503,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"785"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"877"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"926"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"916"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473921?page=1&limit=50"}}}
+
+[2023-03-14T18:14:18.904Z] : [info]: {"id":473895,"name":"Кондиционер-ополаскиватель для белья - Fresh Yellow Flowers 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673515775,"updated_at":1676611112,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846270"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Ополаскиватель для белья концентрированный с тёплым экзотическим ароматом с нотками дыни и ванили. Подходит для всех типов тканей, придает белью мягкость и стойкий аромат. Обладает антистатическим свойством, облегчает глажение. Рекомендован для регулярного применения, не оставляет следов и разводов. Биоразлагаем.\n\nАромат: теплый экзотический (дыня+ваниль)"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1070"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Кондиционеры для белья","enum_id":7499,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"860"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"963"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"1016"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"1005"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473895?page=1&limit=50"}}}
+
+[2023-03-14T18:14:28.312Z] : [info]: {"id":473875,"name":"Средство для чистки сантехники - Clean Master 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673515178,"updated_at":1676611146,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846003"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Густой гель для ежедневной чистки сантехники - унитазов, ванн, раковин и кафеля, а также стоков и сливов. Безупречно очищает и дезинфицирует. Обладает ярко выраженным ароматом свежести, который помогает устранить неприятные запахи. Гарантирован экономичный расход.\n\n\nИспользовать в перчатках"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1060"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Моющие средства","enum_id":7505,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"850"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"954"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"1007"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"996"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473875?page=1&limit=50"}}}
+
+[2023-03-14T18:14:40.030Z] : [info]: {"id":473871,"name":"Универсальное чистящее средство - Clean Master Super 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673515019,"updated_at":1676611151,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846010"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Для очистки кафеля, пола, пластиковых и рабочих поверхностей, сантехники, пористых и текстурных поверхностей , пластиковых подоконников, межплиточных швов и др. Активная пена средства буквально выталкивает грязь из всех щелей Бережно воздействует на металлические  поверхности и покрытия из искуственного камня. Уничтожает все известные микробы, удаляет плесень и грибок.  Использовать в перчатках"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"2184"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Моющие средства","enum_id":7505,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"1747"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"1965"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"2074"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"2052"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473871?page=1&limit=50"}}}
+
+[2023-03-14T18:15:21.687Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-14T18:15:21.914Z] : [error]: Script Stopped.
+
+[2023-03-14T18:15:21.917Z] : [info]: Total execution time: 2m 32s 945ms
+
+[2023-03-14T18:15:21.918Z] : [info]: ---------------------------------------------
+
+[2023-03-14T18:21:28.068Z] : [success]: Robot saved successfully
+
+[2023-03-14T18:24:58.131Z] : [success]: Robot saved successfully
+
+[2023-03-14T18:25:07.584Z] : [info]: ---------------------------------------------
+
+[2023-03-14T18:25:07.584Z] : [success]: Bot started
+
+[2023-03-14T18:25:07.585Z] : [info]: Robot start
+
+[2023-03-14T18:26:15.604Z] : [info]: {"id":473973,"name":"Антижир - чистящее средство от жира и грязи 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673517458,"updated_at":1676610958,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846843"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Гель-концентрат для удаления жира и грязи с эмалированных, хромированных поверхностей, изделий из стекла, нержавеющей стали, фаянса, фарфора, керамики, бытовой кухонной техники и других поверхностей. Содержит активные чистящие вещества и компоненты, расщепляющие любые жировые загрязнения без особых усилий. \n\nИспользовать в перчатках"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1310"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Моющие средства","enum_id":7505,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"1050"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"1179"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"1244"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"1231"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473973?page=1&limit=50"}}}
+
+[2023-03-14T18:26:20.238Z] : [info]: {"id":473955,"name":"Гель-бальзам для мытья посуды - Gin с экстрактом ромашки 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673517070,"updated_at":1676611011,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846676"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Гель-бальзам для мытья посуды, овощей и фруктов, а также детской посуды и игрушек. Обеспечивает мягкое и деликатное воздействие на кожу рук, не сушит кожу и не вызывает чувство стянутости. Позволяет мыть посуду без перчаток. 100% смывается.  Безопасен для септиков, биоразлагаем. \n\nАромат: ромашка с ноткой лимона."}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1125"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Для мытья посуды","enum_id":7501,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"900"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"1012"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"1068"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"1057"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473955?page=1&limit=50"}}}
+
+[2023-03-14T18:26:28.384Z] : [info]: {"id":473921,"name":"Жидкое мыло для рук и тела - Standart Bubble Gum 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673516396,"updated_at":1676611075,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846546"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Для бережного очищения кожи рук и тела. Защищает кожу от высыхания и чувства стянутости. Полностью смывается, безопасно для детей и животных. Можно использовать как гель для душа и пену для ванн.\n\nАромат: фруктовая жвачка бабл гам"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"975"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Жидкие мыла","enum_id":7503,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"785"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"877"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"926"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"916"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473921?page=1&limit=50"}}}
+
+[2023-03-14T18:26:35.023Z] : [info]: {"id":473895,"name":"Кондиционер-ополаскиватель для белья - Fresh Yellow Flowers 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673515775,"updated_at":1676611112,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846270"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Ополаскиватель для белья концентрированный с тёплым экзотическим ароматом с нотками дыни и ванили. Подходит для всех типов тканей, придает белью мягкость и стойкий аромат. Обладает антистатическим свойством, облегчает глажение. Рекомендован для регулярного применения, не оставляет следов и разводов. Биоразлагаем.\n\nАромат: теплый экзотический (дыня+ваниль)"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1070"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Кондиционеры для белья","enum_id":7499,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"860"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"963"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"1016"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"1005"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473895?page=1&limit=50"}}}
+
+[2023-03-14T18:26:42.694Z] : [info]: {"id":473875,"name":"Средство для чистки сантехники - Clean Master 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673515178,"updated_at":1676611146,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846003"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Густой гель для ежедневной чистки сантехники - унитазов, ванн, раковин и кафеля, а также стоков и сливов. Безупречно очищает и дезинфицирует. Обладает ярко выраженным ароматом свежести, который помогает устранить неприятные запахи. Гарантирован экономичный расход.\n\n\nИспользовать в перчатках"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1060"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Моющие средства","enum_id":7505,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"850"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"954"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"1007"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"996"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473875?page=1&limit=50"}}}
+
+[2023-03-14T18:26:52.379Z] : [info]: {"id":473871,"name":"Универсальное чистящее средство - Clean Master Super 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673515019,"updated_at":1676611151,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846010"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Для очистки кафеля, пола, пластиковых и рабочих поверхностей, сантехники, пористых и текстурных поверхностей , пластиковых подоконников, межплиточных швов и др. Активная пена средства буквально выталкивает грязь из всех щелей Бережно воздействует на металлические  поверхности и покрытия из искуственного камня. Уничтожает все известные микробы, удаляет плесень и грибок.  Использовать в перчатках"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"2184"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Моющие средства","enum_id":7505,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"1747"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"1965"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"2074"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"2052"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473871?page=1&limit=50"}}}
+
+[2023-03-14T18:28:15.372Z] : [info]: {"id":473973,"name":"Антижир - чистящее средство от жира и грязи 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673517458,"updated_at":1676610958,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846843"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Гель-концентрат для удаления жира и грязи с эмалированных, хромированных поверхностей, изделий из стекла, нержавеющей стали, фаянса, фарфора, керамики, бытовой кухонной техники и других поверхностей. Содержит активные чистящие вещества и компоненты, расщепляющие любые жировые загрязнения без особых усилий. \n\nИспользовать в перчатках"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1310"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Моющие средства","enum_id":7505,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"1050"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"1179"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"1244"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"1231"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473973?page=1&limit=50"}}}
+
+[2023-03-14T18:28:19.805Z] : [info]: {"id":473955,"name":"Гель-бальзам для мытья посуды - Gin с экстрактом ромашки 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673517070,"updated_at":1676611011,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846676"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Гель-бальзам для мытья посуды, овощей и фруктов, а также детской посуды и игрушек. Обеспечивает мягкое и деликатное воздействие на кожу рук, не сушит кожу и не вызывает чувство стянутости. Позволяет мыть посуду без перчаток. 100% смывается.  Безопасен для септиков, биоразлагаем. \n\nАромат: ромашка с ноткой лимона."}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1125"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Для мытья посуды","enum_id":7501,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"900"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"1012"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"1068"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"1057"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473955?page=1&limit=50"}}}
+
+[2023-03-14T18:28:22.860Z] : [info]: {"id":473921,"name":"Жидкое мыло для рук и тела - Standart Bubble Gum 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673516396,"updated_at":1676611075,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846546"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Для бережного очищения кожи рук и тела. Защищает кожу от высыхания и чувства стянутости. Полностью смывается, безопасно для детей и животных. Можно использовать как гель для душа и пену для ванн.\n\nАромат: фруктовая жвачка бабл гам"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"975"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Жидкие мыла","enum_id":7503,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"785"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"877"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"926"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"916"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473921?page=1&limit=50"}}}
+
+[2023-03-14T18:28:26.227Z] : [info]: {"id":473895,"name":"Кондиционер-ополаскиватель для белья - Fresh Yellow Flowers 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673515775,"updated_at":1676611112,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846270"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Ополаскиватель для белья концентрированный с тёплым экзотическим ароматом с нотками дыни и ванили. Подходит для всех типов тканей, придает белью мягкость и стойкий аромат. Обладает антистатическим свойством, облегчает глажение. Рекомендован для регулярного применения, не оставляет следов и разводов. Биоразлагаем.\n\nАромат: теплый экзотический (дыня+ваниль)"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1070"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Кондиционеры для белья","enum_id":7499,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"860"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"963"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"1016"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"1005"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473895?page=1&limit=50"}}}
+
+[2023-03-14T18:28:31.023Z] : [info]: {"id":473875,"name":"Средство для чистки сантехники - Clean Master 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673515178,"updated_at":1676611146,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846003"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Густой гель для ежедневной чистки сантехники - унитазов, ванн, раковин и кафеля, а также стоков и сливов. Безупречно очищает и дезинфицирует. Обладает ярко выраженным ароматом свежести, который помогает устранить неприятные запахи. Гарантирован экономичный расход.\n\n\nИспользовать в перчатках"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1060"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Моющие средства","enum_id":7505,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"850"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"954"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"1007"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"996"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473875?page=1&limit=50"}}}
+
+[2023-03-14T18:28:39.587Z] : [info]: {"id":473871,"name":"Универсальное чистящее средство - Clean Master Super 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673515019,"updated_at":1676611151,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846010"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Для очистки кафеля, пола, пластиковых и рабочих поверхностей, сантехники, пористых и текстурных поверхностей , пластиковых подоконников, межплиточных швов и др. Активная пена средства буквально выталкивает грязь из всех щелей Бережно воздействует на металлические  поверхности и покрытия из искуственного камня. Уничтожает все известные микробы, удаляет плесень и грибок.  Использовать в перчатках"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"2184"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Моющие средства","enum_id":7505,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"1747"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"1965"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"2074"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"2052"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473871?page=1&limit=50"}}}
+
+[2023-03-14T18:29:20.760Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-14T18:29:21.778Z] : [error]: Script Stopped.
+
+[2023-03-14T18:29:21.781Z] : [info]: Total execution time: 4m 14s 193ms
+
+[2023-03-14T18:29:21.781Z] : [info]: ---------------------------------------------
+
+[2023-03-14T20:48:03.923Z] : [info]: Internet connection // error
+
+[2023-03-14T20:48:14.213Z] : [success]: Connection to our licenses server is restored
+
+[2023-03-14T20:49:11.247Z] : [info]: Internet connection // error
+
+[2023-03-14T22:54:47.767Z] : [success]: Robot saved successfully
+
+[2023-03-14T22:54:48.077Z] : [success]: Connection to our licenses server is restored
+
+[2023-03-14T22:55:01.490Z] : [success]: Robot saved successfully
+
+[2023-03-14T22:55:17.151Z] : [success]: Robot saved successfully
+
+[2023-03-14T22:55:17.701Z] : [success]: Robot saved successfully
+
+[2023-03-14T22:55:24.848Z] : [success]: Robot saved successfully
+
+[2023-03-14T22:56:33.379Z] : [success]: Robot saved successfully
+
+[2023-03-14T22:56:55.713Z] : [success]: Robot saved successfully
+
+[2023-03-14T22:57:37.874Z] : [success]: Robot saved successfully
+
+[2023-03-14T22:57:57.613Z] : [success]: Robot saved successfully
+
+[2023-03-14T22:58:33.122Z] : [success]: Robot saved successfully
+
+[2023-03-14T22:59:54.443Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:00:05.015Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:03:45.190Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:03:57.401Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:13:02.142Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:13:09.685Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:13:17.529Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:13:25.918Z] : [success]: The workflow has been exported successfully
+
+[2023-03-14T23:18:01.471Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:18:15.517Z] : [success]: The workflow has been exported successfully
+
+[2023-03-14T23:21:03.633Z] : [success]: The workflow has been exported successfully
+
+[2023-03-14T23:22:58.172Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-14T23:22:58.173Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-14T23:22:58.174Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-14T23:22:58.176Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-14T23:22:58.177Z] : [error]: Cannot read properties of null (reading 'type')
+

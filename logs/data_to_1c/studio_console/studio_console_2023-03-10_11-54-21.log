@@ -1,0 +1,268 @@
+[2023-03-10T05:54:38.984Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 10.03.2023, 11:54:41
+  ==========================================
+  
+
+[2023-03-10T05:54:50.257Z] : [success]: Robot saved successfully
+
+[2023-03-10T05:55:38.521Z] : [success]: Robot saved successfully
+
+[2023-03-10T05:55:39.276Z] : [success]: Robot saved successfully
+
+[2023-03-10T06:00:18.241Z] : [success]: Robot saved successfully
+
+[2023-03-10T06:01:02.108Z] : [success]: Robot saved successfully
+
+[2023-03-10T06:01:02.159Z] : [success]: Bot started
+
+[2023-03-10T06:01:02.160Z] : [info]: Robot start
+
+[2023-03-10T06:02:58.007Z] : [error]: result is not defined
+
+[2023-03-10T06:02:58.014Z] : [info]: Total execution time: 1m 55s 846ms
+
+[2023-03-10T06:02:58.015Z] : [info]: ---------------------------------------------
+
+[2023-03-10T06:03:24.318Z] : [success]: Robot saved successfully
+
+[2023-03-10T06:07:33.695Z] : [success]: Robot saved successfully
+
+[2023-03-10T06:07:36.975Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 10.03.2023, 12:07:39
+  ==========================================
+  
+
+[2023-03-10T06:17:38.959Z] : [success]: Robot saved successfully
+
+[2023-03-10T06:17:50.372Z] : [success]: The workflow has been exported successfully
+
+[2023-03-10T07:28:49.683Z] : [info]: Internet connection // error
+
+[2023-03-10T07:30:40.579Z] : [success]: Connection to our licenses server is restored
+
+[2023-03-10T08:29:43.410Z] : [info]: Internet connection // error
+
+[2023-03-10T08:34:00.729Z] : [success]: Connection to our licenses server is restored
+
+[2023-03-10T08:48:27.446Z] : [success]: Robot saved successfully
+
+[2023-03-10T08:48:29.156Z] : [success]: Robot saved successfully
+
+[2023-03-10T08:48:34.626Z] : [success]: Robot saved successfully
+
+[2023-03-10T08:48:36.127Z] : [success]: Robot saved successfully
+
+[2023-03-10T08:51:05.709Z] : [success]: Robot saved successfully
+
+[2023-03-10T08:51:36.605Z] : [success]: Robot saved successfully
+
+[2023-03-10T08:55:02.429Z] : [success]: Robot saved successfully
+
+[2023-03-10T08:56:54.291Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-03-10T08:56:54.294Z] : [info]: Total execution time: 1m 44s 34ms
+
+[2023-03-10T08:56:54.295Z] : [info]: ---------------------------------------------
+
+[2023-03-10T08:57:24.442Z] : [success]: Robot saved successfully
+
+[2023-03-10T08:58:16.778Z] : [success]: Robot saved successfully
+
+[2023-03-10T08:58:22.877Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:00:47.625Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:00:50.561Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:02:52.041Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:02:52.594Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:03:03.698Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:04:31.121Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:04:31.959Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:04:46.824Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:04:48.373Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:04:53.793Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:05:26.212Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:05:32.518Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:05:51.579Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:05:52.207Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:06:12.548Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:06:26.160Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:06:40.927Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:06:41.588Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:06:52.836Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:06:53.325Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:07:03.886Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:12:01.975Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:12:02.579Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:12:11.483Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:12:45.037Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:13:11.356Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:15:04.591Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:15:12.540Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:15:13.264Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:21:29.434Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:21:29.796Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:21:30.097Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:21:32.144Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:21:34.958Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:21:55.542Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:21:55.879Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:22:13.520Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:22:14.203Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:23:51.479Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:23:51.912Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:23:54.958Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:24:02.531Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:24:12.213Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:24:12.590Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:24:25.190Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:24:25.523Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:24:36.926Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:24:42.823Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:24:50.976Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:24:51.294Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:24:57.498Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:25:03.968Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:25:33.584Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:25:54.234Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:25:54.726Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:26:48.079Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:26:49.076Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:27:59.510Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:34:59.302Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:36:11.652Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:37:03.405Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:37:15.125Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:37:18.327Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:38:52.277Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:39:44.599Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:40:11.981Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:41:19.020Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:41:19.983Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:41:25.569Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:42:41.492Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:43:02.647Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:47:10.489Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:47:13.004Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:49:59.149Z] : [success]: Robot saved successfully
+
+[2023-03-10T09:51:22.709Z] : [success]: Robot saved successfully
+
+[2023-03-10T10:15:12.572Z] : [success]: Robot saved successfully
+
+[2023-03-10T10:16:22.379Z] : [success]: Robot saved successfully
+
+[2023-03-10T10:16:39.508Z] : [success]: The workflow has been exported successfully
+
+[2023-03-10T10:25:27.043Z] : [success]: Robot saved successfully
+
+[2023-03-10T10:25:37.078Z] : [success]: The workflow has been exported successfully
+
+[2023-03-10T10:27:10.281Z] : [success]: Robot saved successfully
+
+[2023-03-10T10:27:39.400Z] : [success]: The workflow has been exported successfully
+
+[2023-03-10T10:40:29.865Z] : [success]: Robot saved successfully
+
+[2023-03-10T10:40:35.331Z] : [success]: Robot saved successfully
+
+[2023-03-10T10:41:18.904Z] : [success]: Robot saved successfully
+
+[2023-03-10T10:41:41.957Z] : [success]: The workflow has been exported successfully
+
+[2023-03-10T11:29:01.494Z] : [success]: Robot saved successfully
+
+[2023-03-10T11:29:10.803Z] : [success]: The workflow has been exported successfully
+
+[2023-03-10T13:09:03.714Z] : [success]: Robot saved successfully
+
+[2023-03-10T13:09:04.477Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-10T13:09:04.479Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-10T13:09:04.480Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-10T13:09:04.482Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-10T13:09:04.483Z] : [error]: Cannot read properties of null (reading 'type')
+

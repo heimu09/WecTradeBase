@@ -1,0 +1,63 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 07.03.2023, 17:25:58
+  ==========================================
+  
+
+[2023-03-07T11:26:07.706Z] : [success]: Robot saved successfully
+
+[2023-03-07T11:26:14.564Z] : [info]: ---------------------------------------------
+
+[2023-03-07T11:26:14.565Z] : [success]: Bot started
+
+[2023-03-07T11:26:14.566Z] : [info]: Robot start
+
+[2023-03-07T11:26:40.076Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-07T11:27:01.595Z] : [success]: Robot saved successfully
+
+[2023-03-07T11:27:07.899Z] : [success]: Robot saved successfully
+
+[2023-03-07T11:27:21.696Z] : [success]: Bot started
+
+[2023-03-07T11:27:21.696Z] : [info]: Robot start
+
+[2023-03-07T11:27:59.252Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-07T11:27:59.291Z] : [error]: Script Stopped.
+
+[2023-03-07T11:27:59.296Z] : [info]: Total execution time: 37s 595ms
+
+[2023-03-07T11:27:59.297Z] : [info]: ---------------------------------------------
+
+[2023-03-07T11:28:35.952Z] : [success]: Bot started
+
+[2023-03-07T11:28:35.953Z] : [info]: Robot start
+
+[2023-03-07T11:29:02.663Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-07T11:29:03.428Z] : [error]: Script Stopped.
+
+[2023-03-07T11:29:03.432Z] : [info]: Total execution time: 27s 475ms
+
+[2023-03-07T11:29:03.433Z] : [info]: ---------------------------------------------
+
+[2023-03-07T11:29:21.014Z] : [success]: Robot saved successfully
+
+[2023-03-07T11:29:25.946Z] : [success]: Robot saved successfully
+
+[2023-03-07T11:29:59.775Z] : [success]: Robot saved successfully
+
+[2023-03-07T11:30:05.692Z] : [success]: Robot saved successfully
+
+[2023-03-07T11:30:20.409Z] : [success]: Robot saved successfully
+
+[2023-03-07T11:30:27.104Z] : [success]: Robot saved successfully
+
+[2023-03-07T11:30:28.729Z] : [success]: Robot saved successfully
+
+[2023-03-07T11:30:36.628Z] : [success]: Robot saved successfully
+
+[2023-03-07T11:30:45.700Z] : [success]: The workflow has been exported successfully
+

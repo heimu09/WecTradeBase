@@ -1,0 +1,135 @@
+[2023-03-12T15:03:05.947Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 12.03.2023, 21:03:07
+  ==========================================
+  
+
+[2023-03-12T15:04:58.021Z] : [success]: Robot saved successfully
+
+[2023-03-12T15:05:03.654Z] : [success]: Robot saved successfully
+
+[2023-03-12T15:05:08.339Z] : [success]: Robot saved successfully
+
+[2023-03-12T15:06:26.902Z] : [success]: Robot saved successfully
+
+[2023-03-12T15:06:31.987Z] : [success]: Robot saved successfully
+
+[2023-03-12T15:06:32.670Z] : [success]: Robot saved successfully
+
+[2023-03-12T15:09:56.728Z] : [success]: Robot saved successfully
+
+[2023-03-12T15:11:39.807Z] : [success]: Robot saved successfully
+
+[2023-03-12T15:14:21.555Z] : [success]: Robot saved successfully
+
+[2023-03-12T15:22:14.122Z] : [success]: Robot saved successfully
+
+[2023-03-12T15:22:16.551Z] : [success]: Robot saved successfully
+
+[2023-03-12T15:22:25.016Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:28:22.904Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:29:03.316Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:29:10.122Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:29:14.106Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:29:49.508Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:30:00.855Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:30:10.328Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:30:18.893Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:31:03.344Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:37:20.040Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:38:36.534Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:38:37.134Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:38:42.558Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:38:45.945Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:39:04.571Z] : [info]: ---------------------------------------------
+
+[2023-03-12T20:39:04.571Z] : [success]: Bot started
+
+[2023-03-12T20:39:04.572Z] : [info]: Robot start
+
+[2023-03-12T20:39:05.420Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-12T20:39:06.384Z] : [error]: result is not defined
+
+[2023-03-12T20:39:06.386Z] : [info]: Total execution time: 1s 813ms
+
+[2023-03-12T20:39:06.387Z] : [info]: ---------------------------------------------
+
+[2023-03-12T20:39:42.076Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:39:46.846Z] : [success]: Bot started
+
+[2023-03-12T20:39:46.846Z] : [info]: Robot start
+
+[2023-03-12T20:39:47.678Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-12T20:39:48.082Z] : [error]: result_len is not defined
+
+[2023-03-12T20:39:48.084Z] : [info]: Total execution time: 1s 236ms
+
+[2023-03-12T20:39:48.084Z] : [info]: ---------------------------------------------
+
+[2023-03-12T20:39:59.826Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:40:04.836Z] : [success]: Bot started
+
+[2023-03-12T20:40:04.836Z] : [info]: Robot start
+
+[2023-03-12T20:40:08.922Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-12T20:40:09.051Z] : [error]:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+
+[2023-03-12T20:40:09.052Z] : [info]: Total execution time: 4s 215ms
+
+[2023-03-12T20:40:09.053Z] : [info]: ---------------------------------------------
+
+[2023-03-12T20:40:24.806Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:41:36.154Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:41:43.974Z] : [success]: Bot started
+
+[2023-03-12T20:41:43.975Z] : [info]: Robot start
+
+[2023-03-12T20:41:47.464Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-12T20:41:48.186Z] : [error]:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+
+[2023-03-12T20:41:48.187Z] : [info]: Total execution time: 4s 210ms
+
+[2023-03-12T20:41:48.188Z] : [info]: ---------------------------------------------
+
+[2023-03-12T20:41:57.807Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:42:05.545Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:42:50.694Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:42:55.940Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:43:20.224Z] : [success]: Robot saved successfully
+
+[2023-03-12T20:49:50.429Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,43 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 15.03.2023, 10:43:08
+  ==========================================
+  
+
+[2023-03-15T05:15:22.726Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:17:34.504Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:17:34.584Z] : [info]: ---------------------------------------------
+
+[2023-03-15T05:17:34.585Z] : [success]: Bot started
+
+[2023-03-15T05:17:34.585Z] : [info]: Robot start
+
+[2023-03-15T05:19:54.993Z] : [success]: Bot started
+
+[2023-03-15T05:19:54.994Z] : [info]: Robot start
+
+[2023-03-15T05:21:33.339Z] : [info]: {"id":508863,"name":"-15% Гель для стирки универсальный - Optimum Premium 5 л","created_by":8425084,"updated_by":8425084,"created_at":1678435855,"updated_at":1678442784,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846485"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"4267"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Средства для стирки","enum_id":5767,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"3840"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"4053"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"4010"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/508863?page=1&limit=50"}}}
+
+[2023-03-15T05:21:43.389Z] : [info]: {"id":508695,"name":"1тг Хозяйственное мыло 72% - универсальное моющее средство 1 л","created_by":8425084,"updated_by":8425084,"created_at":1678428434,"updated_at":1678429309,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846836"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Моющие средства","enum_id":7505,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/508695?page=1&limit=50"}}}
+
+[2023-03-15T05:21:59.146Z] : [info]: {"id":473903,"name":"Кондиционер-ополаскиватель для белья - Fresh Purple Breeze 5 л","created_by":6765538,"updated_by":6765541,"created_at":1673515991,"updated_at":1677660397,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846287"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Ополаскиватель для белья концентрированный с нежным цветочным ароматом. Подходит для всех типов тканей, придает белью мягкость и стойкий аромат. Обладает антистатическим свойством, облегчает глажение. Рекомендован для регулярного применения, не оставляет следов и разводов. Биоразлагаем.\n\nАромат: нежный цветочный"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"4300"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Кондиционеры для белья","enum_id":7499,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"3440"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"3870"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"4085"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"4042"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473903?page=1&limit=50"}}}
+
+[2023-03-15T05:22:09.221Z] : [info]: {"id":473863,"name":"Хозяйственное мыло 72% - универсальное моющее средство 5 л","created_by":6765538,"updated_by":6765538,"created_at":1673514902,"updated_at":1676611157,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846829"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Изготовлено на натуральной основе. Обладает бактерицидным действием и приятным натуральным ароматом. Эффективно обезжиривает и очищает от грязи твёрдые поверхности из любых материалов. Может использоваться для мойки посуды, мытья пола и ручной стирки белья. Работает в воде любой жесткости. Нетоксично, биоразлагаемо."}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"3400"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Моющие средства","enum_id":7505,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"2725"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"3060"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"3230"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"3196"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473863?page=1&limit=50"}}}
+
+[2023-03-15T05:22:41.176Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-15T05:43:07.001Z] : [success]: The workflow has been exported successfully
+
+[2023-03-15T05:44:50.293Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:44:55.606Z] : [success]: The workflow has been exported successfully
+
+[2023-03-15T05:50:36.873Z] : [success]: The workflow has been exported successfully
+
+[2023-03-15T05:52:48.009Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:52:52.632Z] : [success]: The workflow has been exported successfully
+

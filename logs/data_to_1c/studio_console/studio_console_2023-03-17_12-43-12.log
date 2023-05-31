@@ -1,0 +1,27 @@
+[2023-03-17T06:44:08.391Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 17.03.2023, 12:44:10
+  ==========================================
+  
+
+[2023-03-17T06:45:19.175Z] : [error]: Cannot read properties of undefined (reading 'length')
+
+[2023-03-17T06:45:19.185Z] : [info]: Total execution time: 1m 2s 902ms
+
+[2023-03-17T06:45:19.187Z] : [info]: ---------------------------------------------
+
+[2023-03-17T06:54:17.572Z] : [error]: Cannot read properties of undefined (reading 'length')
+
+[2023-03-17T06:54:17.579Z] : [info]: Total execution time: 1m 10s 740ms
+
+[2023-03-17T06:54:17.581Z] : [info]: ---------------------------------------------
+
+[2023-03-17T06:56:18.105Z] : [error]: Cannot read properties of undefined (reading 'length')
+
+[2023-03-17T06:56:18.110Z] : [info]: Total execution time: 37s 696ms
+
+[2023-03-17T06:56:18.112Z] : [info]: ---------------------------------------------
+

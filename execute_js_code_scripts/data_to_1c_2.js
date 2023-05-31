@@ -1,1 +1,1 @@
-result[result_len-1]['Номер заказа в 1С'] = number_1c
+result['Номер заказа в 1С'] = number_1c

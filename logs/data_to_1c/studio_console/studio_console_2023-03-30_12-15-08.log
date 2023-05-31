@@ -1,0 +1,19 @@
+[2023-03-30T06:15:38.645Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.2.11
+  Started at: 30.03.2023, 12:15:39
+  ==========================================
+  
+
+[2023-03-30T06:15:40.341Z] : [success]: Robot saved successfully
+
+[2023-03-30T06:18:06.570Z] : [success]: Robot saved successfully
+
+[2023-03-30T06:18:51.184Z] : [success]: Robot saved successfully
+
+[2023-03-30T06:19:17.039Z] : [success]: Robot saved successfully
+
+[2023-03-30T06:20:45.504Z] : [success]: Robot saved successfully
+

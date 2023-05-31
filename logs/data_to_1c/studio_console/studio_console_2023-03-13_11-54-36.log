@@ -1,0 +1,23 @@
+[2023-03-13T12:27:23.273Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 13.03.2023, 18:27:25
+  ==========================================
+  
+
+[2023-03-13T12:27:37.433Z] : [success]: Robot saved successfully
+
+[2023-03-13T12:36:53.085Z] : [success]: Robot saved successfully
+
+[2023-03-14T09:07:45.401Z] : [success]: Robot saved successfully
+
+[2023-03-14T10:35:43.463Z] : [success]: Robot saved successfully
+
+[2023-03-14T10:40:28.550Z] : [success]: Robot saved successfully
+
+[2023-03-14T10:57:49.779Z] : [success]: Robot saved successfully
+
+[2023-03-14T10:58:15.403Z] : [success]: Your WecTradetoData1c file has been converted to project successfully
+

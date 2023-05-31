@@ -43,7 +43,6 @@ for (let i = 0; i < contact['custom_fields_values'].length; i++){
                                 }
                                 else{
                                     contact_info['Город'] = "Караганда 1";
-                                    break;
                                 }
                             }
                             if(contact_info['Теги'].length == 0){
@@ -97,8 +96,10 @@ if (companies !== false){
     contact_info["Компания"] = companies["name"]
 }
 
-if(products.length == 0){}
+if(products.length == 0 || contact_info['Номер заказа в 1С'] != null){
+    result = []
+}
 else{
     contact_info["Товары"] = products
 
-    result.push(contact_info)}
+    result = [contact_info]}

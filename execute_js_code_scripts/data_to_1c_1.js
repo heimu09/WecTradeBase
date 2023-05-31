@@ -1,26 +1,34 @@
-if(result[result_len-1]["Город"] === "Караганда 1"){
+if(result["Город"] === "Караганда 1"){
     city = "Караганда"
-}else{if(result[result_len-1]["Город"] === "Караганда 2"){
+}else{if(result["Город"] === "Караганда 2"){
     city = "Караганда"
 }
-else{if(result[result_len-1]["Город"] === "Алмата"){
+else{if(result["Город"] === "Алмата"){
     city = "Алматы"
 }else{
-    city = result[result_len-1]["Город"]
+    city = result["Город"]
 }}}
 
-for(let i = 0; i < result[result_len-1]['Теги'].length; i++){
-    if (result[result_len-1]['Теги'][i] == "КАСПИМАГАЗИН"){
-        if(result[result_len-1]["Город"] === "Караганда 1"){
-            result[result_len-1]["Город"] = "Караганда"
+for(let i = 0; i < result['Теги'].length; i++){
+    if (result['Теги'][i] == "КАСПИМАГАЗИН"){
+        if(result["Город"] === "Караганда 1"){
+            result["Город"] = "Караганда"
         }
-        client = `ЧЛ KASPI МАГАЗИН ${result[result_len-1]["Город"]}`;        
+        if(result["Город"] === "Караганда 2"){
+            result["Город"] = "Караганда"
+        }
+        client = `ЧЛ KASPI МАГАЗИН ${result["Город"]}`;        
         break;
     }
     else{
-        client = `ЧЛ Розница ${result[result_len-1]["Город"]}`;
+        client = `ЧЛ Розница ${result["Город"]}`;
     }
 }
+
+if(result['Теги'].length == 0){
+    client = `ЧЛ Розница ${result["Город"]}`;
+}
+
 contract = `Договор ${city}`;
 comment = "";
 
@@ -29,23 +37,24 @@ warehouse = {
     "Темиртау": "Склады",
     "Нур-Султан": "Нур-Султан филиал",
     "Алматы": "Алматы филиал",
-    "Шымкент": "Шымкент"
+    "Шымкент": "Шымкент",
+    "Усть-Каменогорск": "Усть-Каменогорск",
 }
 
-if (result[result_len-1]['Дата доставки'] !== null){
-    comment = comment + result[result_len-1]['Дата доставки'];
+if (result['Дата доставки'] !== null){
+    comment = comment + result['Дата доставки'];
 }
-if (result[result_len-1]["Город"] !== null){
-    comment = comment + ', ' + result[result_len-1]["Город"];
+if (result["Город"] !== null){
+    comment = comment + ', ' + result["Город"];
 }
-if (result[result_len-1]["Адрес доставки"] !== null){
-    comment = comment + ', ' + result[result_len-1]["Адрес доставки"];
+if (result["Адрес доставки"] !== null){
+    comment = comment + ', ' + result["Адрес доставки"];
 }
-if (result[result_len-1]["Телефон"] !== null){
-    comment = comment + ', ' + result[result_len-1]["Телефон"];
+if (result["Телефон"] !== null){
+    comment = comment + ', ' + result["Телефон"];
 }
-if (result[result_len-1]["Примечание по доставке"] !== null){
-    comment = comment + ', ' +result[result_len-1]["Примечание по доставке"];
+if (result["Примечание по доставке"] !== null){
+    comment = comment + ', ' +result["Примечание по доставке"];
 }
 if (comment != ""){
     comment = comment + '.';

@@ -1,0 +1,73 @@
+[2023-02-27T04:35:01.493Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 27.02.2023, 10:35:03
+  ==========================================
+  
+
+[2023-02-27T04:35:16.786Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:35:17.777Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:35:22.740Z] : [success]: Bot started
+
+[2023-02-27T04:35:22.741Z] : [info]: Robot start
+
+[2023-02-27T04:35:27.561Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-27T04:35:29.941Z] : [success]: Bot finished successfully, total execution time: 7s 198ms
+
+[2023-02-27T04:35:29.942Z] : [info]: ---------------------------------------------
+
+[2023-02-27T04:35:35.102Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:35:38.170Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:36:14.409Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:36:21.491Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:36:24.833Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:36:26.145Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:36:35.556Z] : [success]: Bot started
+
+[2023-02-27T04:36:35.558Z] : [info]: Robot start
+
+[2023-02-27T04:36:42.799Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-27T04:36:42.897Z] : [success]: Bot finished successfully, total execution time: 7s 338ms
+
+[2023-02-27T04:36:42.898Z] : [info]: ---------------------------------------------
+
+[2023-02-27T04:36:54.261Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:37:42.348Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:37:52.899Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:38:10.526Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:39:44.275Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:40:01.925Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:40:07.181Z] : [success]: Bot started
+
+[2023-02-27T04:40:07.182Z] : [info]: Robot start
+
+[2023-02-27T04:41:22.950Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-27T04:41:23.328Z] : [success]: Bot finished successfully, total execution time: 1m 16s 144ms
+
+[2023-02-27T04:41:23.329Z] : [info]: ---------------------------------------------
+
+[2023-02-27T04:41:34.993Z] : [success]: Robot saved successfully
+
+[2023-02-27T04:53:24.718Z] : [success]: Robot saved successfully
+
+[2023-02-27T05:03:05.937Z] : [success]: Robot saved successfully
+

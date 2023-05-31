@@ -1,0 +1,157 @@
+[2023-03-06T02:57:05.266Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.0.3
+  Started at: 06.03.2023, 08:57:06
+  ==========================================
+  
+
+[2023-03-06T02:57:10.844Z] : [success]: Robot saved successfully
+
+[2023-03-06T02:59:34.193Z] : [success]: Robot saved successfully
+
+[2023-03-06T02:59:38.445Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:04:58.521Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:05:36.588Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:10:05.209Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:10:44.990Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:10:49.151Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:11:04.414Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:11:04.727Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:20:22.941Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:20:23.545Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:20:23.774Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:21:26.359Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:21:26.660Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:21:35.066Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:21:35.652Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:21:35.885Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:21:36.085Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:22:11.571Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:25:41.894Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:28:30.312Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:28:31.427Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:28:35.269Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:32:19.312Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:32:20.060Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:32:30.140Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:32:36.847Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:32:37.686Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:32:37.977Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:35:52.205Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:40:02.907Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:40:11.239Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:41:10.608Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:41:32.729Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:41:33.054Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:41:33.289Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:41:33.512Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:41:33.738Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:41:33.986Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:41:34.212Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:47:05.326Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:47:06.775Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:47:18.170Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:47:18.601Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:47:19.332Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:47:19.611Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:47:59.208Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:47:59.581Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:48:43.197Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:48:55.088Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:48:56.408Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:48:56.663Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:48:57.429Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:48:57.750Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:49:39.341Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:50:00.979Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:50:15.961Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:50:37.961Z] : [success]: Robot saved successfully
+
+[2023-03-06T03:50:47.256Z] : [success]: The workflow has been exported successfully
+
+[2023-03-06T04:09:02.175Z] : [success]: Robot saved successfully
+
+[2023-03-06T04:09:03.147Z] : [success]: Robot saved successfully
+
+[2023-03-06T04:09:03.421Z] : [success]: Robot saved successfully
+
+[2023-03-06T04:10:53.901Z] : [success]: Robot saved successfully
+
+[2023-03-06T04:22:53.487Z] : [success]: Robot saved successfully
+
+[2023-03-06T04:23:09.387Z] : [success]: Robot saved successfully
+
+[2023-03-06T04:23:10.477Z] : [success]: Robot saved successfully
+
+[2023-03-06T04:23:17.138Z] : [success]: Robot saved successfully
+
+[2023-03-06T04:23:17.423Z] : [success]: Robot saved successfully
+
+[2023-03-06T04:23:23.129Z] : [success]: Robot saved successfully
+
+[2023-03-06T04:23:28.988Z] : [success]: Robot saved successfully
+
+[2023-03-06T04:23:30.590Z] : [success]: The workflow has been exported successfully
+
+[2023-03-06T04:23:41.846Z] : [success]: Robot saved successfully
+
+[2023-03-06T04:38:08.622Z] : [success]: Robot saved successfully
+

@@ -1,4 +1,5 @@
 let result = []
+amo_response = JSON.parse(data)
 data = JSON.parse(data)['_embedded']['leads'];
 
 for (let i = 0; i < data.length; i++){

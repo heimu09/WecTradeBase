@@ -1,0 +1,27 @@
+[2023-02-28T12:10:03.610Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 28.02.2023, 18:10:05
+  ==========================================
+  
+
+[2023-02-28T12:10:11.460Z] : [success]: Robot saved successfully
+
+[2023-02-28T12:10:17.546Z] : [success]: Bot started
+
+[2023-02-28T12:10:17.548Z] : [info]: Robot start
+
+[2023-02-28T12:10:48.177Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-28T12:10:51.012Z] : [error]: Script Stopped.
+
+[2023-02-28T12:10:51.017Z] : [info]: Total execution time: 33s 463ms
+
+[2023-02-28T12:10:51.018Z] : [info]: ---------------------------------------------
+
+[2023-02-28T12:10:56.675Z] : [success]: Robot saved successfully
+
+[2023-02-28T12:19:34.873Z] : [success]: Robot saved successfully
+

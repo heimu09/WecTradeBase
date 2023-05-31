@@ -1,0 +1,77 @@
+[2023-04-18T04:54:26.103Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.2.12
+  Started at: 18.04.2023, 10:54:27
+  ==========================================
+  
+
+[2023-04-18T04:54:30.295Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:08:19.908Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:08:46.097Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:15:20.907Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:17:50.957Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:21:40.361Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:22:26.463Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:22:53.397Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:22:58.250Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:23:29.622Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:23:36.021Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:28:02.839Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:28:08.510Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:32:04.179Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:32:10.686Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:32:26.572Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:33:21.048Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:40:35.112Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:40:43.934Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:40:54.743Z] : [success]: Robot saved successfully
+
+[2023-04-18T05:41:34.253Z] : [success]: Robot saved successfully
+
+[2023-04-18T06:08:45.014Z] : [success]: Robot saved successfully
+
+[2023-04-18T06:09:45.718Z] : [success]: Robot saved successfully
+
+[2023-04-18T06:10:13.370Z] : [success]: Robot saved successfully
+
+[2023-04-18T06:27:22.657Z] : [success]: Robot saved successfully
+
+[2023-04-18T06:27:39.983Z] : [success]: Robot saved successfully
+
+[2023-04-18T06:28:12.160Z] : [success]: Robot saved successfully
+
+[2023-04-18T06:28:17.489Z] : [success]: Robot saved successfully
+
+[2023-04-18T06:39:38.534Z] : [success]: Robot saved successfully
+
+[2023-04-18T06:49:58.825Z] : [success]: Robot saved successfully
+
+[2023-04-18T06:50:00.075Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-04-18T06:50:00.077Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-04-18T06:50:00.078Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-04-18T06:50:00.079Z] : [error]: Cannot read properties of null (reading 'type')
+

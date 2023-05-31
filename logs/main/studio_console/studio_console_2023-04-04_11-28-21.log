@@ -1,0 +1,53 @@
+
+  ==========================================
+  Studio Pro version: 9.2.11
+  Started at: 04.04.2023, 11:28:39
+  ==========================================
+  
+
+[2023-04-04T05:30:31.066Z] : [success]: The workflow has been exported successfully
+
+[2023-04-04T06:25:47.060Z] : [success]: Robot saved successfully
+
+[2023-04-04T06:25:51.276Z] : [success]: Bot started
+
+[2023-04-04T06:25:51.276Z] : [info]: Robot start
+
+[2023-04-04T06:26:32.081Z] : [success]: Robot saved successfully
+
+[2023-04-04T06:26:36.332Z] : [success]: Bot started
+
+[2023-04-04T06:26:36.332Z] : [info]: Robot start
+
+[2023-04-04T06:26:42.581Z] : [success]: Bot finished successfully, total execution time: 6s 248ms
+
+[2023-04-04T06:26:42.582Z] : [info]: ---------------------------------------------
+
+[2023-04-04T06:26:51.073Z] : [success]: Robot saved successfully
+
+[2023-04-04T06:27:33.064Z] : [success]: Robot saved successfully
+
+[2023-04-04T06:27:46.495Z] : [success]: Bot started
+
+[2023-04-04T06:27:46.495Z] : [info]: Robot start
+
+[2023-04-04T06:27:53.441Z] : [info]: {"status_text":"Bad Request","status_code":400,"response_body":"{\"hint\":\"Check the `refresh_token` parameter\",\"title\":\"Некорректный запрос\",\"type\":\"https://developers.amocrm.ru/v3/errors/OAuthProblemJson\",\"status\":400,\"detail\":\"В запросе отсутствует ряд параметров или параметры невалидны\"}"} : [object Object]
+
+[2023-04-04T06:27:58.371Z] : [info]: {"status_text":"Bad Request","status_code":400,"response_body":"{\"hint\":\"Check the `refresh_token` parameter\",\"title\":\"Некорректный запрос\",\"type\":\"https://developers.amocrm.ru/v3/errors/OAuthProblemJson\",\"status\":400,\"detail\":\"В запросе отсутствует ряд параметров или параметры невалидны\"}"} : [object Object]
+
+[2023-04-04T06:28:01.190Z] : [info]: {"status_text":"Bad Request","status_code":400,"response_body":"{\"hint\":\"Check the `refresh_token` parameter\",\"title\":\"Некорректный запрос\",\"type\":\"https://developers.amocrm.ru/v3/errors/OAuthProblemJson\",\"status\":400,\"detail\":\"В запросе отсутствует ряд параметров или параметры невалидны\"}"} : [object Object]
+
+[2023-04-04T06:28:05.464Z] : [info]: {"status_text":"Bad Request","status_code":400,"response_body":"{\"hint\":\"Check the `refresh_token` parameter\",\"title\":\"Некорректный запрос\",\"type\":\"https://developers.amocrm.ru/v3/errors/OAuthProblemJson\",\"status\":400,\"detail\":\"В запросе отсутствует ряд параметров или параметры невалидны\"}"} : [object Object]
+
+[2023-04-04T06:28:07.974Z] : [error]: Script Stopped.
+
+[2023-04-04T06:28:07.976Z] : [info]: Total execution time: 21s 479ms
+
+[2023-04-04T06:28:07.977Z] : [info]: ---------------------------------------------
+
+[2023-04-04T06:37:53.013Z] : [success]: Robot saved successfully
+
+[2023-04-04T06:38:00.812Z] : [success]: Robot saved successfully
+
+[2023-04-04T06:42:20.487Z] : [success]: Robot saved successfully
+

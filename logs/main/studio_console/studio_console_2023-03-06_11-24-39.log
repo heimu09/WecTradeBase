@@ -1,0 +1,99 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 06.03.2023, 11:24:54
+  ==========================================
+  
+
+[2023-03-06T05:24:55.855Z] : [success]: Robot saved successfully
+
+[2023-03-06T05:25:22.873Z] : [success]: Robot saved successfully
+
+[2023-03-06T05:27:42.779Z] : [success]: Robot saved successfully
+
+[2023-03-06T05:27:47.066Z] : [info]: ---------------------------------------------
+
+[2023-03-06T05:27:47.066Z] : [success]: Bot started
+
+[2023-03-06T05:27:47.067Z] : [info]: Robot start
+
+[2023-03-06T05:28:06.506Z] : [error]: System activity: Can't kill process
+
+[2023-03-06T05:28:06.508Z] : [info]: Total execution time: 19s 438ms
+
+[2023-03-06T05:28:06.509Z] : [info]: ---------------------------------------------
+
+[2023-03-06T05:28:29.093Z] : [success]: Robot saved successfully
+
+[2023-03-06T05:28:33.446Z] : [success]: Bot started
+
+[2023-03-06T05:28:33.446Z] : [info]: Robot start
+
+[2023-03-06T05:28:37.637Z] : [error]: System activity: No process found
+
+[2023-03-06T05:28:37.639Z] : [info]: Total execution time: 4s 191ms
+
+[2023-03-06T05:28:37.640Z] : [info]: ---------------------------------------------
+
+[2023-03-06T05:28:47.975Z] : [success]: Robot saved successfully
+
+[2023-03-06T05:29:00.003Z] : [success]: Robot saved successfully
+
+[2023-03-06T05:29:04.083Z] : [success]: Bot started
+
+[2023-03-06T05:29:04.084Z] : [info]: Robot start
+
+[2023-03-06T05:29:23.456Z] : [error]: System activity: Can't kill process
+
+[2023-03-06T05:29:23.459Z] : [info]: Total execution time: 19s 372ms
+
+[2023-03-06T05:29:23.459Z] : [info]: ---------------------------------------------
+
+[2023-03-06T05:31:26.864Z] : [success]: Bot started
+
+[2023-03-06T05:31:26.865Z] : [info]: Robot start
+
+[2023-03-06T05:31:46.246Z] : [error]: System activity: Can't kill process
+
+[2023-03-06T05:31:46.248Z] : [info]: Total execution time: 19s 380ms
+
+[2023-03-06T05:31:46.248Z] : [info]: ---------------------------------------------
+
+[2023-03-06T05:36:28.525Z] : [success]: Robot saved successfully
+
+[2023-03-06T05:36:35.117Z] : [success]: Bot started
+
+[2023-03-06T05:36:35.118Z] : [info]: Robot start
+
+[2023-03-06T05:43:30.443Z] : [success]: Bot started
+
+[2023-03-06T05:43:30.444Z] : [info]: Robot start
+
+[2023-03-06T05:43:33.639Z] : [error]: System activity: No process found
+
+[2023-03-06T05:43:33.641Z] : [info]: Total execution time: 3s 194ms
+
+[2023-03-06T05:43:33.641Z] : [info]: ---------------------------------------------
+
+[2023-03-06T05:43:41.356Z] : [success]: Robot saved successfully
+
+[2023-03-06T05:44:06.463Z] : [success]: Robot saved successfully
+
+[2023-03-06T05:44:09.719Z] : [success]: Robot saved successfully
+
+[2023-03-06T05:44:13.738Z] : [success]: Robot saved successfully
+
+[2023-03-06T05:44:15.976Z] : [success]: Robot saved successfully
+
+[2023-03-06T05:44:30.982Z] : [success]: Robot saved successfully
+
+[2023-03-06T05:44:35.061Z] : [success]: Bot started
+
+[2023-03-06T05:44:35.062Z] : [info]: Robot start
+
+[2023-03-06T05:50:55.692Z] : [success]: Bot started
+
+[2023-03-06T05:50:55.693Z] : [info]: Robot start
+
+[2023-03-06T05:54:21.084Z] : [success]: The workflow has been exported successfully
+

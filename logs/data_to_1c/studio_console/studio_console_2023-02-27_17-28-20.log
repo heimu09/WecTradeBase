@@ -1,0 +1,69 @@
+[2023-02-27T11:29:33.017Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 27.02.2023, 17:29:35
+  ==========================================
+  
+
+[2023-02-27T11:29:36.824Z] : [success]: Robot saved successfully
+
+[2023-02-27T11:37:01.996Z] : [error]: Script Stopped.
+
+[2023-02-27T11:37:02.005Z] : [info]: Total execution time: 7m 16s 597ms
+
+[2023-02-27T11:37:02.007Z] : [info]: ---------------------------------------------
+
+[2023-02-27T11:37:43.779Z] : [success]: Robot saved successfully
+
+[2023-02-27T11:39:47.960Z] : [success]: Robot saved successfully
+
+[2023-02-27T11:41:20.792Z] : [success]: Robot saved successfully
+
+[2023-02-27T11:41:34.081Z] : [success]: Robot saved successfully
+
+[2023-02-27T11:41:39.965Z] : [success]: Bot started
+
+[2023-02-27T11:41:39.966Z] : [info]: Robot start
+
+[2023-02-27T11:45:55.563Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-27T11:45:58.403Z] : [error]: Script Stopped.
+
+[2023-02-27T11:45:58.406Z] : [info]: Total execution time: 4m 18s 436ms
+
+[2023-02-27T11:45:58.406Z] : [info]: ---------------------------------------------
+
+[2023-02-27T11:47:25.009Z] : [success]: Robot saved successfully
+
+[2023-02-27T12:48:50.530Z] : [error]: Script Stopped.
+
+[2023-02-27T12:48:50.535Z] : [info]: Total execution time: 56m 38s 133ms
+
+[2023-02-27T12:48:50.536Z] : [info]: ---------------------------------------------
+
+[2023-02-27T12:50:05.419Z] : [success]: Robot saved successfully
+
+[2023-02-27T12:52:13.942Z] : [success]: Robot saved successfully
+
+[2023-02-27T13:23:21.645Z] : [error]: Script Stopped.
+
+[2023-02-27T13:23:21.649Z] : [info]: Total execution time: 24m 37s 842ms
+
+[2023-02-27T13:23:21.651Z] : [info]: ---------------------------------------------
+
+[2023-02-27T13:31:36.914Z] : [error]: Script Stopped.
+
+[2023-02-27T13:31:36.919Z] : [info]: Total execution time: 7m 31s 294ms
+
+[2023-02-27T13:31:36.920Z] : [info]: ---------------------------------------------
+
+[2023-02-27T13:57:42.882Z] : [error]: Selectors: There is no screen on machine. May be RDP session is closed or minimized
+
+[2023-02-27T13:57:42.890Z] : [info]: Total execution time: 25m 37s 933ms
+
+[2023-02-27T13:57:42.891Z] : [info]: ---------------------------------------------
+
+[2023-02-27T13:58:57.446Z] : [success]: Robot saved successfully
+

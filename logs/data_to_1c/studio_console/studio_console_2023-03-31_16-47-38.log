@@ -1,0 +1,43 @@
+[2023-03-31T10:49:09.886Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.2.11
+  Started at: 31.03.2023, 16:49:10
+  ==========================================
+  
+
+[2023-03-31T10:49:12.361Z] : [success]: Robot saved successfully
+
+[2023-03-31T10:49:39.129Z] : [success]: Robot saved successfully
+
+[2023-03-31T10:50:04.758Z] : [success]: Robot saved successfully
+
+[2023-03-31T10:50:17.170Z] : [success]: Robot saved successfully
+
+[2023-03-31T10:50:22.748Z] : [success]: Robot saved successfully
+
+[2023-03-31T10:50:25.996Z] : [success]: Robot saved successfully
+
+[2023-03-31T10:50:34.905Z] : [success]: Robot saved successfully
+
+[2023-03-31T10:50:43.078Z] : [success]: Robot saved successfully
+
+[2023-03-31T10:53:47.955Z] : [success]: Robot saved successfully
+
+[2023-03-31T10:53:53.114Z] : [success]: Robot saved successfully
+
+[2023-03-31T10:53:58.329Z] : [success]: Robot saved successfully
+
+[2023-03-31T10:54:06.542Z] : [success]: Robot saved successfully
+
+[2023-03-31T10:54:11.237Z] : [success]: Robot saved successfully
+
+[2023-03-31T10:54:18.499Z] : [success]: Robot saved successfully
+
+[2023-03-31T10:54:19.622Z] : [success]: Robot saved successfully
+
+[2023-03-31T11:00:43.145Z] : [success]: Robot saved successfully
+
+[2023-03-31T11:00:43.855Z] : [success]: Robot saved successfully
+

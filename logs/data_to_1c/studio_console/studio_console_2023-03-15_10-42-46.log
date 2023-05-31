@@ -1,0 +1,131 @@
+[2023-03-15T04:55:20.716Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 15.03.2023, 10:55:23
+  ==========================================
+  
+
+[2023-03-15T04:55:50.093Z] : [success]: Robot saved successfully
+
+[2023-03-15T04:56:54.655Z] : [success]: Robot saved successfully
+
+[2023-03-15T04:56:55.085Z] : [success]: Robot saved successfully
+
+[2023-03-15T04:56:55.435Z] : [success]: Robot saved successfully
+
+[2023-03-15T04:56:55.607Z] : [success]: Robot saved successfully
+
+[2023-03-15T04:56:55.785Z] : [success]: Robot saved successfully
+
+[2023-03-15T04:59:56.097Z] : [success]: Robot saved successfully
+
+[2023-03-15T04:59:56.645Z] : [success]: Robot saved successfully
+
+[2023-03-15T04:59:56.900Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:00:05.837Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:00:06.174Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:00:06.499Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:00:06.647Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:00:06.911Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:00:08.928Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:00:39.555Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:00:39.874Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:00:41.045Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:00:41.352Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:01:30.871Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:01:41.015Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:01:41.334Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:01:41.565Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:01:41.747Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:01:54.390Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:01:54.745Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:02:00.286Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:02:11.143Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:02:11.552Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:02:21.218Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:02:21.532Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:02:45.327Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:02:45.684Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:02:45.943Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:02:46.173Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:02:53.426Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:02:54.111Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:02:54.435Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:03:02.345Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:03:03.275Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:03:03.454Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:03:04.459Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:03:49.040Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:03:49.449Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:03:49.613Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:08:14.877Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:08:19.106Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:10:22.474Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:10:25.773Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:10:30.840Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:15:33.213Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:16:18.002Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:17:18.811Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:17:28.957Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:17:29.608Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:22:41.920Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-03-15T05:22:41.924Z] : [info]: Total execution time: 2m 46s 926ms
+
+[2023-03-15T05:22:41.925Z] : [info]: ---------------------------------------------
+
+[2023-03-15T05:23:56.219Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:44:42.892Z] : [success]: Robot saved successfully
+
+[2023-03-15T05:52:38.721Z] : [success]: Robot saved successfully
+

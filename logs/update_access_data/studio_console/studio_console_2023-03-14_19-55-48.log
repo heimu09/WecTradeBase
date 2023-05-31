@@ -1,0 +1,74 @@
+[2023-03-14T14:18:04.205Z] : [error]: Script Stopped.
+
+[2023-03-14T14:18:04.209Z] : [info]: Total execution time: 1m 28s 686ms
+
+[2023-03-14T14:18:04.210Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 14.03.2023, 20:18:04
+  ==========================================
+  
+
+[2023-03-14T14:18:06.801Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:42:11.229Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:42:41.285Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:48:16.717Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:48:27.434Z] : [success]: Robot saved successfully
+
+[2023-03-14T14:48:28.134Z] : [success]: Robot saved successfully
+
+[2023-03-14T15:19:02.709Z] : [success]: Robot saved successfully
+
+[2023-03-14T18:05:26.486Z] : [success]: Robot saved successfully
+
+[2023-03-14T18:11:53.925Z] : [success]: Robot saved successfully
+
+[2023-03-14T18:12:11.147Z] : [success]: Robot saved successfully
+
+[2023-03-14T18:12:19.826Z] : [success]: Robot saved successfully
+
+[2023-03-14T18:12:25.541Z] : [success]: Bot started
+
+[2023-03-14T18:12:25.541Z] : [info]: Robot start
+
+[2023-03-14T18:12:28.362Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-14T18:12:28.867Z] : [success]: Bot finished successfully, total execution time: 3s 325ms
+
+[2023-03-14T18:12:28.868Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 15.03.2023, 04:58:50
+  ==========================================
+  
+
+[2023-03-14T22:59:10.406Z] : [success]: Robot saved successfully
+
+[2023-03-14T22:59:13.814Z] : [success]: Robot saved successfully
+
+[2023-03-14T22:59:17.892Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:03:59.306Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:12:37.664Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:20:33.203Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:20:33.677Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:20:42.425Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:20:43.933Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:20:44.244Z] : [success]: Robot saved successfully
+
+[2023-03-14T23:20:44.428Z] : [success]: Robot saved successfully
+

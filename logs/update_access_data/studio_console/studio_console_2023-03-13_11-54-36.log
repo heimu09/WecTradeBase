@@ -1,0 +1,45 @@
+[2023-03-13T06:53:56.177Z] : [error]: Failed to open the website as it could not find the IP address which matches the website domain name you entered. Make sure you entered the website address correctly
+
+[2023-03-13T06:53:56.191Z] : [info]: Total execution time: 15m 30s 885ms
+
+[2023-03-13T06:53:56.193Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 13.03.2023, 12:53:56
+  ==========================================
+  
+
+[2023-03-13T06:53:59.230Z] : [info]: Internet connection // error
+
+[2023-03-13T06:54:08.793Z] : [success]: Connection to our licenses server is restored
+
+[2023-03-13T10:26:58.985Z] : [info]: Internet connection // error
+
+[2023-03-13T10:27:09.253Z] : [success]: Connection to our licenses server is restored
+
+[2023-03-13T11:02:29.870Z] : [success]: Robot saved successfully
+
+[2023-03-13T11:02:40.284Z] : [success]: Robot saved successfully
+
+[2023-03-13T11:02:41.112Z] : [success]: Robot saved successfully
+
+[2023-03-13T13:23:50.977Z] : [info]: Internet connection // error
+
+[2023-03-13T13:23:54.217Z] : [success]: Connection to our licenses server is restored
+
+[2023-03-14T09:02:14.839Z] : [success]: Robot saved successfully
+
+[2023-03-14T09:04:07.273Z] : [success]: Robot saved successfully
+
+[2023-03-14T09:04:11.855Z] : [success]: Bot started
+
+[2023-03-14T09:04:11.856Z] : [info]: Robot start
+
+[2023-03-14T09:04:45.929Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-14T09:04:46.535Z] : [success]: Bot finished successfully, total execution time: 34s 677ms
+
+[2023-03-14T09:04:46.536Z] : [info]: ---------------------------------------------
+

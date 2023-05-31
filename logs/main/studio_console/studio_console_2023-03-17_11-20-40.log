@@ -1,0 +1,57 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 17.03.2023, 11:20:51
+  ==========================================
+  
+
+[2023-03-17T05:30:07.185Z] : [info]: ---------------------------------------------
+
+[2023-03-17T05:30:07.185Z] : [success]: Bot started
+
+[2023-03-17T05:30:07.186Z] : [info]: Robot start
+
+[2023-03-17T05:31:08.433Z] : [success]: Robot saved successfully
+
+[2023-03-17T05:31:14.023Z] : [success]: Bot started
+
+[2023-03-17T05:31:14.024Z] : [info]: Robot start
+
+[2023-03-17T05:33:19.361Z] : [success]: Bot started
+
+[2023-03-17T05:33:19.364Z] : [info]: Robot start
+
+[2023-03-17T05:34:05.807Z] : [success]: Bot started
+
+[2023-03-17T05:34:05.807Z] : [info]: Robot start
+
+[2023-03-17T05:34:13.228Z] : [info]: {"status_text":"Unauthorized","status_code":401,"response_body":"{\"hint\":\"Token is not linked to client\",\"title\":\"Некорректный запрос\",\"type\":\"https://developers.amocrm.ru/v3/errors/OAuthProblemJson\",\"status\":401,\"detail\":\"В запросе отсутствует ряд параметров или параметры невалидны\"}"} : [object Object]
+
+[2023-03-17T05:34:19.154Z] : [info]: {"status_text":"Unauthorized","status_code":401,"response_body":"{\"hint\":\"Token is not linked to client\",\"title\":\"Некорректный запрос\",\"type\":\"https://developers.amocrm.ru/v3/errors/OAuthProblemJson\",\"status\":401,\"detail\":\"В запросе отсутствует ряд параметров или параметры невалидны\"}"} : [object Object]
+
+[2023-03-17T05:35:23.672Z] : [success]: Bot started
+
+[2023-03-17T05:35:23.673Z] : [info]: Robot start
+
+[2023-03-17T05:35:59.231Z] : [info]: {"id":473895,"name":"Кондиционер-ополаскиватель для белья - Fresh Yellow Flowers 1 л","created_by":6765538,"updated_by":6765538,"created_at":1673515775,"updated_at":1676611112,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846270"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Ополаскиватель для белья концентрированный с тёплым экзотическим ароматом с нотками дыни и ванили. Подходит для всех типов тканей, придает белью мягкость и стойкий аромат. Обладает антистатическим свойством, облегчает глажение. Рекомендован для регулярного применения, не оставляет следов и разводов. Биоразлагаем.\n\nАромат: теплый экзотический (дыня+ваниль)"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"1070"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Кондиционеры для белья","enum_id":7499,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"860"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"963"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"1016"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"1005"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473895?page=1&limit=50"}}}
+
+[2023-03-17T05:36:15.799Z] : [info]: {"id":473963,"name":"Гель для мытья посуды - Gin Econom 5 л","created_by":6765538,"updated_by":6765538,"created_at":1673517290,"updated_at":1676610987,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846256"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Концентрированное средство для ручного мытья посуды. Быстро и эффективно удаляет жир даже в холодной воде. Полностью смывается, не оставляет следов на посуде. Способствует быстрому высушиванию посуды и столовых приборов. Экономно расходуется. Безопасен для септиков, биоразлагаем.\n\nАромат: лимон"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"3225"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Для мытья посуды","enum_id":7501,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"2585"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"2902"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"3063"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"3031"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473963?page=1&limit=50"}}}
+
+[2023-03-17T05:36:20.464Z] : [info]: {"id":473945,"name":"Гель для стирки универсальный - Optimum Premium 5 л","created_by":6765538,"updated_by":6765538,"created_at":1673516892,"updated_at":1676611041,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535846485"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Универсальный гель для стирки белого, цветного и чёрного белья. Для машинной и ручной стирки при температуре 30-60 0С. Эфективно отстирывает даже в холодной воде, полностью выполаскивается и не оставляет разводов на ткани. Специальный состав предотвращает образование «катышков» и сохраняет цвета от изменения. \n\nАромат: выраженный морской аромат с нотками хвои"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"5020"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Средства для стирки","enum_id":5767,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"4020"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"4518"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"4769"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"4718"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473945?page=1&limit=50"}}}
+
+[2023-03-17T05:36:24.757Z] : [info]: {"id":473943,"name":"Гель для стирки универсальный - Optimum Regular 2 л","created_by":6765538,"updated_by":6765538,"created_at":1673516798,"updated_at":1676611044,"is_deleted":null,"custom_fields_values":[{"field_id":611821,"field_name":"Артикул","field_code":"SKU","field_type":"text","values":[{"value":"0710535847260"}]},{"field_id":611823,"field_name":"Описание","field_code":"DESCRIPTION","field_type":"textarea","values":[{"value":"Универсальный гель для стирки всех типов тканей. Для машинной и ручной стирки при температуре 30-60 0С. Эффективно отстирывает даже в холодной воде, полностью выполаскивается и не оставляет разводов на одежде. Специальный состав предотвращает образование «катышек» и сохраняет цвета от изменения.\n\nАромат: выраженный аромат морозной свежести"}]},{"field_id":611825,"field_name":"Розница","field_code":"PRICE","field_type":"price","values":[{"value":"2500"}]},{"field_id":611827,"field_name":"Группа","field_code":"GROUP","field_type":"category","values":[{"value":"Средства для стирки","enum_id":5767,"enum_code":null}]},{"field_id":611831,"field_name":"Единица измерения","field_code":"UNIT","field_type":"select","values":[{"value":"шт","enum_id":393647,"enum_code":null}]},{"field_id":611835,"field_name":"Опт цена","field_code":"WHOLESALE_PRICE","field_type":"price","values":[{"value":"2020"}]},{"field_id":665351,"field_name":"Розница -10%","field_code":null,"field_type":"price","values":[{"value":"2250"}]},{"field_id":665353,"field_name":"Розница -5%","field_code":null,"field_type":"price","values":[{"value":"2375"}]},{"field_id":667689,"field_name":"Бонус 1тг","field_code":null,"field_type":"price","values":[{"value":"1"}]},{"field_id":667691,"field_name":"Розница -6%","field_code":null,"field_type":"price","values":[{"value":"2350"}]}],"catalog_id":5975,"account_id":30301498,"_links":{"self":{"href":"https://wectradekz.amocrm.ru/api/v4/catalogs/5975/elements/473943?page=1&limit=50"}}}
+
+[2023-03-17T05:38:34.110Z] : [success]: Robot saved successfully
+
+[2023-03-17T05:39:34.857Z] : [success]: Robot saved successfully
+
+[2023-03-17T05:39:37.245Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-17T05:39:37.248Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-17T05:39:37.249Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-17T05:39:37.251Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-17T05:39:37.301Z] : [error]: Cannot read properties of null (reading 'type')
+

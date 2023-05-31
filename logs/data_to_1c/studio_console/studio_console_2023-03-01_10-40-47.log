@@ -1,0 +1,65 @@
+[2023-03-01T04:41:33.139Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 01.03.2023, 10:41:35
+  ==========================================
+  
+
+[2023-03-01T04:42:41.828Z] : [success]: Robot saved successfully
+
+[2023-03-01T04:44:23.881Z] : [success]: Robot saved successfully
+
+[2023-03-01T04:45:16.529Z] : [success]: Robot saved successfully
+
+[2023-03-01T04:45:16.575Z] : [info]: ---------------------------------------------
+
+[2023-03-01T04:45:16.576Z] : [success]: Bot started
+
+[2023-03-01T04:45:16.576Z] : [info]: Robot start
+
+[2023-03-01T04:46:10.034Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-01T04:46:12.736Z] : [error]: Script Stopped.
+
+[2023-03-01T04:46:12.740Z] : [info]: Total execution time: 56s 159ms
+
+[2023-03-01T04:46:12.741Z] : [info]: ---------------------------------------------
+
+[2023-03-01T04:50:28.209Z] : [success]: Robot saved successfully
+
+[2023-03-01T04:52:11.965Z] : [success]: Bot started
+
+[2023-03-01T04:52:11.966Z] : [info]: Robot start
+
+[2023-03-01T04:52:23.038Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-01T04:52:23.366Z] : [error]: Script Stopped.
+
+[2023-03-01T04:52:23.368Z] : [info]: Total execution time: 11s 399ms
+
+[2023-03-01T04:52:23.369Z] : [info]: ---------------------------------------------
+
+[2023-03-01T05:00:59.584Z] : [success]: Bot started
+
+[2023-03-01T05:00:59.585Z] : [info]: Robot start
+
+[2023-03-01T05:03:04.335Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-01T05:03:04.839Z] : [error]: Script Stopped.
+
+[2023-03-01T05:03:04.844Z] : [info]: Total execution time: 2m 5s 253ms
+
+[2023-03-01T05:03:04.845Z] : [info]: ---------------------------------------------
+
+[2023-03-01T05:03:09.273Z] : [success]: Robot saved successfully
+
+[2023-03-01T05:06:26.808Z] : [success]: Robot saved successfully
+
+[2023-03-01T05:07:49.288Z] : [success]: Robot saved successfully
+
+[2023-03-01T05:07:54.594Z] : [success]: Robot saved successfully
+
+[2023-03-01T05:09:47.374Z] : [success]: Robot saved successfully
+
