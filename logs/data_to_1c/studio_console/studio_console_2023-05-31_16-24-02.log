@@ -1,0 +1,319 @@
+[2023-05-31T10:39:29.869Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.2.12
+  Started at: 31.05.2023, 16:39:31
+  ==========================================
+  
+
+[2023-05-31T10:39:35.778Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:40:07.110Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:40:25.907Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:43:40.636Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:46:31.897Z] : [info]: Средний
+
+[2023-05-31T10:47:54.036Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T10:48:16.021Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:48:41.283Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:49:27.338Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:49:33.657Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:49:55.982Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:50:01.769Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:50:27.034Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:50:35.631Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:50:40.198Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:50:52.468Z] : [info]: ---------------------------------------------
+
+[2023-05-31T10:50:52.468Z] : [success]: Bot started
+
+[2023-05-31T10:50:52.469Z] : [info]: Robot start
+
+[2023-05-31T10:51:00.446Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T10:51:00.809Z] : [error]: Script Stopped.
+
+[2023-05-31T10:51:00.811Z] : [info]: Total execution time: 8s 340ms
+
+[2023-05-31T10:51:00.812Z] : [info]: ---------------------------------------------
+
+[2023-05-31T10:51:02.814Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:51:13.369Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:51:19.529Z] : [success]: Robot saved successfully
+
+[2023-05-31T10:51:31.929Z] : [info]: ---------------------------------------------
+
+[2023-05-31T10:51:31.930Z] : [success]: Bot started
+
+[2023-05-31T10:51:31.931Z] : [info]: Robot start
+
+[2023-05-31T10:51:55.115Z] : [info]: Средний
+
+[2023-05-31T10:52:04.753Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T10:52:05.617Z] : [success]: Bot finished successfully, total execution time: 33s 685ms
+
+[2023-05-31T10:52:05.618Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:00:49.395Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:01:09.095Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:01:14.317Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:01:21.301Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:01:30.810Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:01:36.254Z] : [success]: Bot started
+
+[2023-05-31T11:01:36.255Z] : [info]: Robot start
+
+[2023-05-31T11:01:37.317Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T11:01:37.705Z] : [error]: Cannot read properties of null (reading 'split')
+
+[2023-05-31T11:01:37.707Z] : [info]: Total execution time: 1s 450ms
+
+[2023-05-31T11:01:37.708Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:02:43.263Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:02:51.614Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:02:56.644Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:02:56.644Z] : [success]: Bot started
+
+[2023-05-31T11:02:56.645Z] : [info]: Robot start
+
+[2023-05-31T11:02:57.579Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T11:02:57.983Z] : [error]: date_check_valuestr is not defined
+
+[2023-05-31T11:02:57.985Z] : [info]: Total execution time: 1s 338ms
+
+[2023-05-31T11:02:57.987Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:03:19.005Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:03:23.810Z] : [success]: Bot started
+
+[2023-05-31T11:03:23.810Z] : [info]: Robot start
+
+[2023-05-31T11:03:27.973Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T11:03:28.109Z] : [error]: date_check_valuestr is not defined
+
+[2023-05-31T11:03:28.111Z] : [info]: Total execution time: 4s 299ms
+
+[2023-05-31T11:03:28.112Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:04:11.172Z] : [success]: Bot started
+
+[2023-05-31T11:04:11.173Z] : [info]: Robot start
+
+[2023-05-31T11:04:15.316Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T11:04:15.516Z] : [error]: date_check_valuestr is not defined
+
+[2023-05-31T11:04:15.517Z] : [info]: Total execution time: 4s 343ms
+
+[2023-05-31T11:04:15.518Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:04:26.550Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:04:32.477Z] : [success]: Bot started
+
+[2023-05-31T11:04:32.477Z] : [info]: Robot start
+
+[2023-05-31T11:04:36.656Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T11:04:36.827Z] : [error]: date_check_valuestr is not defined
+
+[2023-05-31T11:04:36.829Z] : [info]: Total execution time: 4s 350ms
+
+[2023-05-31T11:04:36.830Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:04:42.721Z] : [success]: Bot started
+
+[2023-05-31T11:04:42.722Z] : [info]: Robot start
+
+[2023-05-31T11:04:46.862Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T11:04:47.053Z] : [error]: date_check_valuestr is not defined
+
+[2023-05-31T11:04:47.055Z] : [info]: Total execution time: 4s 331ms
+
+[2023-05-31T11:04:47.055Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:05:04.323Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:05:14.869Z] : [success]: Bot started
+
+[2023-05-31T11:05:14.869Z] : [info]: Robot start
+
+[2023-05-31T11:05:31.217Z] : [info]: Средний
+
+[2023-05-31T11:05:40.819Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T11:05:41.451Z] : [error]: date_check_valuestr is not defined
+
+[2023-05-31T11:05:41.453Z] : [info]: Total execution time: 26s 581ms
+
+[2023-05-31T11:05:41.453Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:06:13.284Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:06:17.402Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:06:34.083Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:06:42.068Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:06:44.992Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:07:08.077Z] : [success]: Bot started
+
+[2023-05-31T11:07:08.078Z] : [info]: Robot start
+
+[2023-05-31T11:07:24.720Z] : [info]: Средний
+
+[2023-05-31T11:07:36.380Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T11:07:36.616Z] : [error]: date_check_valuestr is not defined
+
+[2023-05-31T11:07:36.618Z] : [info]: Total execution time: 28s 537ms
+
+[2023-05-31T11:07:36.619Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:08:01.090Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:08:12.932Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:08:36.309Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:08:48.317Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:08:48.318Z] : [success]: Bot started
+
+[2023-05-31T11:08:48.318Z] : [info]: Robot start
+
+[2023-05-31T11:09:04.922Z] : [info]: Средний
+
+[2023-05-31T11:09:49.545Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T11:09:50.117Z] : [error]: Script Stopped.
+
+[2023-05-31T11:09:50.119Z] : [info]: Total execution time: 1m 1s 798ms
+
+[2023-05-31T11:09:50.120Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:10:32.776Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:11:05.977Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:11:16.621Z] : [success]: Bot started
+
+[2023-05-31T11:11:16.621Z] : [info]: Robot start
+
+[2023-05-31T11:11:33.001Z] : [info]: Средний
+
+[2023-05-31T11:11:43.616Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T11:11:46.070Z] : [error]: Selectors: Selector is empty
+
+[2023-05-31T11:11:46.072Z] : [info]: Total execution time: 29s 448ms
+
+[2023-05-31T11:11:46.072Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:11:49.912Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:12:02.275Z] : [success]: Bot started
+
+[2023-05-31T11:12:02.276Z] : [info]: Robot start
+
+[2023-05-31T11:12:19.110Z] : [info]: Средний
+
+[2023-05-31T11:12:30.674Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T11:12:30.800Z] : [error]: date_check_valuestr is not defined
+
+[2023-05-31T11:12:30.802Z] : [info]: Total execution time: 28s 524ms
+
+[2023-05-31T11:12:30.803Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:12:48.917Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:12:53.321Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:12:58.499Z] : [success]: Bot started
+
+[2023-05-31T11:12:58.499Z] : [info]: Robot start
+
+[2023-05-31T11:13:15.297Z] : [info]: 
+
+[2023-05-31T11:13:18.674Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T11:13:18.988Z] : [success]: Bot finished successfully, total execution time: 20s 488ms
+
+[2023-05-31T11:13:18.990Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:13:31.298Z] : [success]: Bot started
+
+[2023-05-31T11:13:31.299Z] : [info]: Robot start
+
+[2023-05-31T11:13:47.763Z] : [info]: Средний
+
+[2023-05-31T11:13:59.370Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T11:13:59.807Z] : [success]: Bot finished successfully, total execution time: 28s 507ms
+
+[2023-05-31T11:13:59.808Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:15:51.721Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:16:03.836Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:16:15.948Z] : [success]: Bot started
+
+[2023-05-31T11:16:15.948Z] : [info]: Robot start
+
+[2023-05-31T11:16:32.535Z] : [info]: Средний
+
+[2023-05-31T11:16:50.480Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-05-31T11:16:50.672Z] : [error]: Script Stopped.
+
+[2023-05-31T11:16:50.674Z] : [info]: Total execution time: 34s 723ms
+
+[2023-05-31T11:16:50.675Z] : [info]: ---------------------------------------------
+
+[2023-05-31T11:17:21.010Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:19:56.196Z] : [success]: Robot saved successfully
+
+[2023-05-31T11:25:09.483Z] : [success]: Robot saved successfully
+
+[2023-05-31T12:05:20.757Z] : [success]: Robot saved successfully
+
+[2023-05-31T12:24:33.987Z] : [success]: Robot saved successfully
+
+[2023-05-31T12:24:40.442Z] : [error]: Cannot read properties of null (reading 'type')
+
